@@ -1,0 +1,3041 @@
+service negative staff 
+food positive anecdotes/miscellaneous negative food 
+food positive food kitchen menu 
+service positive 
+anecdotes/miscellaneous positive 
+food positive service positive food perks 
+food negative price negative 
+food positive service positive orrechiete with sausage and chicken waiters meats dish 
+food positive Bagels 
+food positive food 
+food negative toast mayonnaise bacon cheese ingredients plate omelet 
+service conflict drinks check 
+ambience positive design atmosphere 
+food positive cuisine 
+anecdotes/miscellaneous positive 
+food positive pizza thin crusted pizza 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+ambience negative 
+anecdotes/miscellaneous neutral 
+service positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive price positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive food negative interior decoration chefs 
+ambience negative seats 
+food neutral seltzer with lime 
+price positive 
+anecdotes/miscellaneous negative 
+food positive pickles selection of meats and seafoods 
+food neutral dishes eat family style 
+service positive ambience positive vibe owner service 
+price negative 
+anecdotes/miscellaneous positive service negative delivery 
+food positive service positive ambience positive food atmosphere service 
+food positive price positive food prices 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+ambience positive price positive interior decor prices 
+anecdotes/miscellaneous positive 
+price positive wine 
+service negative price positive price service 
+food positive quantity 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral sushi sushi bar 
+ambience positive 
+food positive fried rice 
+food positive mussels puff pastry goat cheese salad with a delicious dressing hanger steak au poivre courses 
+food positive indian food 
+service positive ambience positive service place 
+food positive broth with noodles 
+price positive food positive meal money 
+food conflict food 
+food positive wine list 
+food positive 
+food positive Thai food 
+service positive glass of wine 
+anecdotes/miscellaneous positive 
+service negative specials 
+anecdotes/miscellaneous positive lunch dinner dine 
+food positive service positive ambience positive atmosphere service desert 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive bar table dinner 
+food positive service positive ambience positive service food atmosphere environment 
+anecdotes/miscellaneous negative 
+food positive lasagnette appetizer 
+price negative anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive beer selection 
+food positive service positive ambience positive food menu service setting 
+anecdotes/miscellaneous conflict dinner dining 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral Dosa 
+food positive Wine list selection wine-by-the-glass 
+food positive menu 
+food negative menu entrees 
+anecdotes/miscellaneous positive 
+food conflict menu dishes 
+food negative sake martini 
+food positive anecdotes/miscellaneous positive bagels spreads 
+service conflict service 
+ambience positive 
+service positive table 
+price positive 
+anecdotes/miscellaneous positive 
+food positive anecdotes/miscellaneous negative food 
+anecdotes/miscellaneous positive 
+food positive meal 
+food neutral ingredients chopsticks 
+ambience positive garden terrace 
+food conflict 
+service positive 
+food positive pizza 
+anecdotes/miscellaneous positive 
+food neutral cuisine 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive atmosphere 
+service positive ambience negative service crowded 
+food negative dish 
+food positive service positive ambience positive atmosphere service food 
+food negative grilled branzino 
+food positive service positive wait staff food 
+anecdotes/miscellaneous positive 
+food positive ambience conflict vibe French food packed 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive ambience positive pizza place 
+service negative 
+anecdotes/miscellaneous positive 
+food positive pre-theater menu 
+anecdotes/miscellaneous positive 
+service negative delivery order 
+service negative server meal 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative scents 
+food positive lobster sandwich 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service negative check 
+anecdotes/miscellaneous positive 
+food positive price positive Spider Roll price shell crab 
+food positive Deep Fried Skewers 
+service negative reservations hostess 
+food positive rice dishes congee (rice porridge) 
+food positive tuna tartar appetizer 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive Food chef fish dishes soups kitchen cuisine 
+food positive wine french fare cheese 
+food positive Indian food 
+food neutral baby pizzas 
+food positive 
+ambience negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive service negative waiting 
+food positive lava cake dessert 
+anecdotes/miscellaneous positive baby pizzas 
+food negative service negative service food managers 
+food positive price positive food food 
+anecdotes/miscellaneous negative table 
+food positive price conflict selection of wines 
+ambience positive Italian decor 
+food negative food 
+anecdotes/miscellaneous positive dining experience 
+food positive anecdotes/miscellaneous positive wine selection reservation 
+service positive Service maitre reservation 
+food positive panang duck 
+food conflict Food raw vegatables 
+service conflict service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive price positive Indian prices 
+service positive 
+ambience conflict 
+ambience positive Ambiance 
+anecdotes/miscellaneous negative 
+food positive BBQ Salmon Sea Bass Crispy Duck 
+food negative ingredients ingredients pizza crust 
+ambience negative 
+food positive kababs Dal Bukhara 
+anecdotes/miscellaneous positive eating 
+food positive taste 
+food positive ambience positive price positive meal price 
+food positive glass of prosecco mussels glass of Leaping Lizard 
+food negative Food creme brulee sugar 
+food positive service positive food served 
+anecdotes/miscellaneous neutral 
+food positive pizza 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food positive service positive Pizza delivery garlic knots 
+food positive chinese food 
+service neutral service 
+food negative anecdotes/miscellaneous positive food 
+anecdotes/miscellaneous positive 
+food positive chef 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive service negative Service teapot 
+anecdotes/miscellaneous neutral 
+food positive pizza fresh mozzarella cheese 
+food positive ambience positive place food 
+service positive service getting a table 
+ambience conflict atmosphere bistro-type vibe 
+anecdotes/miscellaneous positive 
+service negative waitress tables 
+anecdotes/miscellaneous negative 
+food negative food 
+anecdotes/miscellaneous neutral 
+food positive price positive prices food 
+food conflict fish variety of fish 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive pesto pizza house salad bottle of wine meal 
+service positive bartender beverage manager 
+ambience positive Ambiance music 
+food positive service positive food drinks service 
+anecdotes/miscellaneous neutral food refleshment 
+price positive 
+food positive ambience positive service positive ambiance service foods tastes sommlier captain back waiters 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+service negative waitress 
+food positive tandoori salmon 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative ambience positive atmosphere 
+service positive ambience negative space service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive atmorphere 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+service positive service menu items 
+food positive three course meal 
+anecdotes/miscellaneous neutral 
+food positive Pizza 
+ambience negative 
+food negative service negative ambience positive environment food service 
+food positive crawfish boiled 
+anecdotes/miscellaneous neutral reservation 
+food positive 
+food negative table 
+food negative Pad Thai noodles 
+anecdotes/miscellaneous neutral delivered 
+price positive values for your money 
+food positive lunch 
+service negative hostess 
+food positive service negative food wait building 
+ambience negative corridor space counters counter entrees 
+food positive food 
+food positive steaks salads sides 
+price positive Lunch pickels and slaw 
+food positive price positive wine prices 
+service positive delivered 
+food positive wine by the glass 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral price negative price 
+food positive dish 
+food positive Change Mojito 
+service neutral service 
+food positive service positive food service 
+anecdotes/miscellaneous positive 
+food negative food 
+anecdotes/miscellaneous negative 
+food negative soup for the udon soy sauce water 
+food positive anti-pasta calamari filling pasta mains 
+food positive service positive waitress food glasses of wine 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive service negative food counter 
+food positive sushi ceviche mix (special) crab dumplings assorted sashimi sushi rolls sake banana tempura 
+food positive plain pizza garlic eggplant 
+anecdotes/miscellaneous negative 
+service conflict servers servers 
+anecdotes/miscellaneous negative getting a table 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+service negative service 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative 
+food positive takeout menu menu italian dishes 
+food positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+price negative 
+anecdotes/miscellaneous neutral Thai food 
+price negative 
+service positive hostess 
+food positive pizza 
+price positive food positive bottles of wine 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive beers food pumkin tortelini dish 
+service negative dinner special 
+food positive crabmeat lasagna chocolate bread pudding dessert 
+food positive pasta dishes tiramisu 
+service positive price positive service prices 
+anecdotes/miscellaneous positive lunch 
+service positive service staff menu meal 
+food positive bagel 
+food positive food 
+anecdotes/miscellaneous positive 
+service negative servers 
+anecdotes/miscellaneous positive food plate of dumplings 
+food positive Filet Mignon 
+food positive 
+anecdotes/miscellaneous negative sangria bar bar bartender 
+anecdotes/miscellaneous negative 
+food positive sake menu 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive price positive drinks 
+food positive beef cubes 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive service positive ambience positive service wine selection ambiance 
+anecdotes/miscellaneous negative 
+service negative 
+service conflict reservations service 
+anecdotes/miscellaneous neutral 
+service positive service waiters 
+anecdotes/miscellaneous positive 
+food conflict food dessert portions 
+anecdotes/miscellaneous neutral 
+ambience positive traffic noise 
+ambience neutral 
+anecdotes/miscellaneous neutral 
+ambience positive 
+anecdotes/miscellaneous neutral food positive food 
+food positive service positive ambience positive food ambience service 
+anecdotes/miscellaneous negative 
+price positive 
+anecdotes/miscellaneous positive 
+service positive 
+anecdotes/miscellaneous positive dinner meeting 
+ambience positive atmosphere 
+food positive food Cantonese 
+food neutral cooking 
+ambience positive food positive food atmosphere 
+anecdotes/miscellaneous negative 
+food positive price positive Prix Fixe menu quantity quality 
+anecdotes/miscellaneous positive lunch 
+food negative eggs benedict hollondaise sauce brunch 
+food positive oatmeal 
+ambience conflict 
+food negative food 
+food conflict service negative menu Chilean Sea Bass server specials 
+anecdotes/miscellaneous positive 
+food positive food onion soup 
+anecdotes/miscellaneous positive 
+food negative 
+anecdotes/miscellaneous positive price positive wine 
+service positive ambience negative staff 
+food conflict Dim Sum dinner 
+food neutral price negative roll roll roll rice 
+anecdotes/miscellaneous positive 
+food positive 
+service negative gin and tonic tonic 
+anecdotes/miscellaneous neutral 
+food negative dim sum little dishes 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+price negative 
+service conflict service 
+anecdotes/miscellaneous neutral 
+food negative Thai 
+anecdotes/miscellaneous neutral reservation 
+food neutral Grilled Chicken special with Edamame Puree 
+anecdotes/miscellaneous neutral 
+food positive roast duck pork chicken on rice with ginger 
+anecdotes/miscellaneous negative menu 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service positive Staff 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral reservation 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive dinner 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive Sake dishes portion 
+service positive 
+ambience positive price positive 
+food positive service positive food service 
+food positive roti rolls 
+food positive ingredients 
+service positive meal food tip 
+service positive service 
+anecdotes/miscellaneous positive 
+food conflict meat 
+price negative 
+price negative 
+food positive hot dogs 
+service positive Delivery 
+anecdotes/miscellaneous neutral 
+ambience negative noise level 
+food positive Personal pans 
+food positive Spicy Fried Clam Rolls Spider Rolls 
+anecdotes/miscellaneous positive menu 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive price positive atmosphere 
+anecdotes/miscellaneous neutral 
+ambience neutral place 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative FOOD 
+anecdotes/miscellaneous neutral 
+food positive lunch 
+food positive food quality 
+service negative man table table 
+food positive cheesecake 
+service negative food negative food employees containers for condiments containers manager 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive service positive Indian food service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive ambience positive Decor food wine list food 
+food conflict salmon dish flavor price 
+food negative tuna melt cheese tuna sandwich 
+food positive chicken tikka naan dals 
+service negative waiters bill 
+ambience positive lawns 
+service conflict staff 
+price negative 
+anecdotes/miscellaneous positive 
+food positive sangria 
+anecdotes/miscellaneous negative thai food 
+anecdotes/miscellaneous positive 
+food negative service negative food service 
+food positive ravioli 
+food conflict menu 
+service positive service 
+price neutral bill lunch drinks 
+food negative sushi 
+food positive service neutral food service 
+price negative price tag 
+anecdotes/miscellaneous neutral 
+food positive price positive Thai food appetizers 
+anecdotes/miscellaneous neutral 
+service negative 
+service positive service 
+food positive mozzarella pie 
+food negative Fish 
+anecdotes/miscellaneous conflict 
+ambience positive main dining room ceiling 
+food positive service positive menu selections service 
+anecdotes/miscellaneous neutral 
+ambience neutral music 
+anecdotes/miscellaneous negative 
+ambience positive establishment 
+food positive price negative dim sum 
+food positive food 
+service positive wait staff 
+anecdotes/miscellaneous positive 
+food positive dim sum 
+anecdotes/miscellaneous positive 
+service positive Service 
+food neutral seafood dishes appetizers 
+anecdotes/miscellaneous positive lunch 
+service negative dinner 
+service negative bottle of wine grapes 
+price positive Prices 
+service negative waiter 
+anecdotes/miscellaneous positive 
+food negative thai food 
+anecdotes/miscellaneous positive 
+service negative 
+food neutral dish 
+food conflict burger pastas food staples 
+food neutral Dim Sum 
+food neutral food 
+service negative waitress 
+ambience positive seating bar place 
+price negative 
+anecdotes/miscellaneous positive dinner 
+anecdotes/miscellaneous neutral 
+food positive Food 
+food positive service positive ambience positive price positive music food service prices 
+anecdotes/miscellaneous conflict wait 
+price negative food conflict lobster sandwich price 
+service positive owner 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food negative sides 
+anecdotes/miscellaneous positive 
+food negative seafood menu Salmon 
+ambience conflict place 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food positive beverages dessert 
+service negative hostess waitress 
+food conflict Asian appetizers drinks 
+anecdotes/miscellaneous conflict wait 
+ambience positive view 
+food positive meal 
+anecdotes/miscellaneous neutral dinner ambiance food 
+anecdotes/miscellaneous neutral 
+service positive ambience positive price positive service prices atmosphere 
+food positive service positive price positive sushi service value 
+service negative service served 
+service positive service attitude 
+anecdotes/miscellaneous negative 
+food positive food striped bass 
+ambience conflict music corriander 
+food positive black white shakes 
+anecdotes/miscellaneous positive meal 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral dinner 
+ambience negative seating 
+food neutral chu chu curry pad thai chicken 
+food neutral food prix fixe 
+anecdotes/miscellaneous positive 
+food positive pastrami soups 
+food positive bagels 
+food positive price positive sushi 
+food positive bagel with lox spread bagles 
+food negative food quality of food 
+service negative lobby area seated 
+food positive service positive pizza proprietor 
+anecdotes/miscellaneous positive lunch meetings 
+price negative 
+ambience positive price positive food positive decor prices food's presentation 
+food positive service positive Waitstaff swordfish meal 
+ambience positive setting 
+anecdotes/miscellaneous negative 
+service negative management 
+food positive service positive service seating Delivery sushi 
+food positive desserts 
+food positive service conflict Italian food service 
+service conflict 
+food positive food salmon dish 
+food positive rolls 
+anecdotes/miscellaneous positive 
+food positive ambience positive price positive food decor prices 
+service positive owner 
+anecdotes/miscellaneous neutral lunch dinner 
+food conflict Moules lobster ravioli 
+anecdotes/miscellaneous negative price negative 
+price conflict dosa eat 
+service conflict ambience negative atmosphere waiters 
+food positive seafood wine list menu 
+food neutral wine indian wine list wines 
+food positive Pastrami or corned beef rye bread 
+price negative glasses of champagne bottle of wine after dinner drinks 
+food negative seasoning 
+food negative food food 
+anecdotes/miscellaneous positive 
+food positive service positive waitress food 
+service negative ambience positive ambience service 
+food positive service positive wine list staff owners menu 
+service positive people 
+service positive menu main dishes waiter specials 
+food positive ambience neutral location ambience food 
+food positive stuff eats 
+food negative dinner 
+food negative 
+ambience neutral 
+food positive gourmet food 
+food positive anecdotes/miscellaneous positive bruschetta panini 
+ambience positive 
+anecdotes/miscellaneous negative 
+service positive food positive dishes menu 
+service negative service 
+service positive food positive waitress fried mini buns with the condensed milk and the assorted fruits on beancurd 
+anecdotes/miscellaneous positive 
+price negative food prices 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience negative food positive food 
+anecdotes/miscellaneous positive 
+food conflict sushi 
+food positive service positive portions servers starter 
+food positive bagels 
+anecdotes/miscellaneous neutral 
+food positive food 
+anecdotes/miscellaneous positive 
+food conflict pizza take-out pizza 
+service positive server 
+food positive green curry with vegetables 
+anecdotes/miscellaneous positive price positive 
+service positive 
+anecdotes/miscellaneous negative 
+ambience negative place 
+ambience positive service positive door 
+price positive priced 
+anecdotes/miscellaneous neutral 
+food negative food portioins 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service negative reservation 
+food positive Pad Thai 
+ambience negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food negative lunch specials 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive food positive place pizzas 
+anecdotes/miscellaneous neutral 
+price negative 
+food neutral food 
+food positive pot-stickers tempura dish 
+service positive stuff 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative ambience positive price positive food negative food atmosphere entree range 
+food positive French food 
+service negative 
+anecdotes/miscellaneous negative 
+food negative service negative deliveries food 
+service positive staff 
+food positive 
+anecdotes/miscellaneous positive 
+food positive portions 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive service positive staff 
+anecdotes/miscellaneous positive 
+food negative smoked salmon and roe appetizer 
+food positive lunch food 
+food positive garlic shrimp lamb okra (bindi) 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral waiter 
+food positive menu burger steak escargot 
+food positive plate 
+food positive food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive casual dinner 
+anecdotes/miscellaneous positive 
+food positive price positive food price wine list 
+anecdotes/miscellaneous positive 
+food positive price negative Prices chicken tikka marsala 
+anecdotes/miscellaneous positive 
+food positive styles of pizza 
+ambience negative look 
+food negative food portions 
+food positive coconut rice 
+service negative appetizer 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive food 
+food positive price positive food beers on tap wine list priced 
+ambience negative price negative music bottle minimun 
+food positive food 
+anecdotes/miscellaneous negative 
+ambience positive spot 
+service positive staff meal 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+service positive ambience negative table 
+anecdotes/miscellaneous neutral 
+ambience positive 
+food positive price positive Quality of food price pork fish chicken lamb vegetables 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+ambience negative seating place 
+food positive price positive appetizing price 
+food negative bun 
+food positive price positive food priced 
+food positive fusion of French and Indian cooking 
+food negative turnip cake roast pork buns egg custards 
+food positive bagels 
+service negative seating in the garden seats 
+service positive ambience positive service place water 
+food positive ambience positive price positive food place 
+food positive food options 
+anecdotes/miscellaneous positive price positive cost 
+food negative 
+food neutral pre-theatre 3-course dinner wine flight 
+anecdotes/miscellaneous positive 
+ambience neutral lunch dinner 
+food negative calzones 
+service negative drink 
+ambience positive place bar scene 
+service positive staff 
+food positive spreads beverage selections bagels 
+service negative waiter specials served 
+anecdotes/miscellaneous positive 
+food positive tiramisu meal 
+anecdotes/miscellaneous positive 
+ambience positive secret back room 
+ambience positive bar 
+food positive service positive food service 
+food positive gulab jamun 
+food positive service positive ambience positive price positive prices atmosphere service wine list 
+service negative ambience negative diner wait staff table 
+food positive ambience positive meal room 
+ambience negative anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+price positive 
+anecdotes/miscellaneous neutral dinner 
+anecdotes/miscellaneous positive 
+food positive pig feet ginger simmered in black vinegar desserts with frog jelly 
+food positive price positive food priced 
+ambience positive 
+food positive thai cuisine 
+service positive crew host 
+ambience conflict price positive food positive round tables Taiwanese 
+food conflict portion french fries 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive dinner 
+food positive food dishes specials regular menu-fare 
+price neutral Prices 
+food positive fresh tomato sauce fresh mozz cheese basil dough pizza flour 
+food positive food 
+price negative 
+food positive Indian food Paneer Roll 
+food positive food plates 
+food positive fresh mozzerella slices Plain Cheese slice 
+anecdotes/miscellaneous neutral 
+food negative food 
+anecdotes/miscellaneous neutral 
+food negative food 
+food positive ambience positive food 
+food neutral Filet Mignon with garlic mash 
+food positive price positive pre-theater menu roasted tomato soup with chevre steak frites creme brulee 
+service positive waitstaff 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive bread pizza margarite pizza with cold prosciutto and baby arugula on top salad Peter's Favourite pizza with prosciutto and baby arugula 
+price conflict prices 
+food positive bruschettas paninis tramezzinis 
+service positive waiters diners 
+food positive chef dishes cuisine Indian 
+service positive owner 
+service positive food positive food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive price positive meal pre-theater prix-fixe 
+food positive food wine dining 
+anecdotes/miscellaneous positive 
+food positive menu fried chicken pork chop noodle dishes 
+food positive 
+food positive Indian food 
+ambience positive privacy corner booth table place 
+anecdotes/miscellaneous positive 
+service negative manager open faced cheese sandwich 
+ambience conflict 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive breads 
+anecdotes/miscellaneous neutral naan 
+food negative price positive squid half-price Saturday night option 
+ambience conflict 
+food positive Pizza homemade pasta 
+anecdotes/miscellaneous positive 
+price positive value ofr money 
+anecdotes/miscellaneous neutral 
+price positive soup mushrooms 
+service conflict Service 
+service neutral waiting 
+food positive beginning appetizers scallops chocolate souffle with rasberry mint sorbet taste 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive Japanese Tapas 
+anecdotes/miscellaneous negative 
+food positive fish rice seaweed 
+anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive dishes lamb sausages sardines with biscuits large whole shrimp pistachio ice cream 
+anecdotes/miscellaneous neutral 
+food positive price neutral food price 
+ambience neutral 
+food negative service negative ambience positive ambiance atmosphere food service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+service positive server food drinks served 
+anecdotes/miscellaneous neutral food 
+food positive sushi thai food 
+anecdotes/miscellaneous negative Chef 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service negative ambience negative service table 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive garlic fresh tomatoes sauce on the pizza 
+ambience positive outdoor seating 
+food positive mesclun salmon ice cream courses 
+anecdotes/miscellaneous neutral wait 
+food positive ambience negative food place 
+anecdotes/miscellaneous positive 
+food positive service positive ambience positive staff bistro fare chilaquiles jazz brunch live jazz 
+price positive prices 
+anecdotes/miscellaneous positive 
+food positive price conflict bill measures of liquers 
+service conflict table service service 
+food neutral thai food 
+food conflict Food pork belly fat 
+food conflict 
+ambience conflict 
+food positive food 
+ambience conflict tables dinner place 
+anecdotes/miscellaneous negative 
+food positive price positive pizza 
+service positive bar 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+service positive Service 
+food positive lamb chop salads lemon extra virgnin olive oil 
+food negative sushi 
+anecdotes/miscellaneous positive 
+price negative meal cost dishes 
+food positive Pastrami sandwich beer pickles 
+food negative plain pizza truffle oil wild mushroom(third generation-Fornini) pizza 
+food negative omelletes 
+food positive 
+service negative tip 
+price positive lunch dinner 
+ambience negative counter 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive service positive fish service Sushi fix 
+service positive waitress 
+service negative reservation sigh table 
+anecdotes/miscellaneous negative food 
+ambience conflict anecdotes/miscellaneous conflict place 
+food conflict menu food art 
+ambience positive outdoor atmosphere 
+price negative toppings 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+price negative 
+anecdotes/miscellaneous positive pizza 
+food positive price positive service positive service food price 
+food negative Thai food 
+anecdotes/miscellaneous neutral bagels 
+price negative bills 
+anecdotes/miscellaneous positive 
+food neutral scallion pancakes fried dumplings 
+food positive appetizers salads steak pasta 
+service negative price negative table served dishes table served bill 
+service positive Service 
+food negative food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive dumpling 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive anecdotes/miscellaneous positive fondue appetizer 
+food neutral spice 
+food positive Octopus salad 
+food negative foods MSG cooking 
+anecdotes/miscellaneous neutral 
+food negative Tom Kha soup 
+food positive Bombay beer 
+ambience positive decor dining hall semi-private boths 
+service positive Service 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+service negative service 
+anecdotes/miscellaneous neutral office lunch 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous conflict 
+food conflict sweet lassi lamb chettinad garlic naan rasamalai 
+food positive bistro fare chef food 
+food positive lambchops 
+food positive 
+food positive spicy tuna salmon 
+food positive price negative seafood prices 
+food positive price positive food prices 
+service positive owners hosts 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative quality value 
+food neutral Meat dishes vegetarian-friendly choices 
+anecdotes/miscellaneous positive 
+price positive prices 
+service positive amuse bouche dessert tables service 
+food positive crunchy tuna 
+food negative price conflict food 
+anecdotes/miscellaneous positive sushi 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+ambience positive live entertainment special effects 
+food positive sushi sushi 
+food negative fountain drinks 
+food positive beers 
+food positive portions 
+food positive Steak Tartare 
+service positive food negative Crab Croquette apt 
+service positive anecdotes/miscellaneous positive waiter 
+food neutral wine 
+food positive house wine 
+anecdotes/miscellaneous positive 
+ambience negative 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food negative service negative bread 
+food neutral dim sum servings 
+service neutral ambience negative management door glass front 
+food negative meal 
+ambience neutral 
+food conflict Barbecued codfish seasoning texture spice rub herb mix sauce 
+service negative 
+ambience positive dance floor dinner 
+food positive price positive value food 
+service neutral chef owner 
+anecdotes/miscellaneous positive dinner 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food negative bacon platter in sandwiches frying bacos 
+food positive price negative Bagels 
+food positive Pizza crust pizza toppings bread 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+ambience positive spot 
+food negative menu American Chinese food 
+food positive service positive Service beef carpaachio pasta portion 
+food neutral kalbi nebbiolo 
+food positive Italian food 
+food positive Italian food 
+ambience positive Located 
+price negative anecdotes/miscellaneous negative 
+ambience positive food positive meal room clubhouse 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive trays of Dim Sum 
+anecdotes/miscellaneous neutral 
+service positive bar bartenders 
+service negative dessert waitress bill 
+anecdotes/miscellaneous neutral 
+food positive cheff food 
+anecdotes/miscellaneous neutral 
+food negative cheese 
+food positive service positive meal server wine wine price range priced 
+service negative anecdotes/miscellaneous positive svc 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous conflict 
+food positive food dishes drinks 
+food positive whole grilled fish 
+price positive tuna tartare sake mushroom ravioli pinot noir chocolate sampler dessert wine 
+anecdotes/miscellaneous positive lunch 
+food positive service positive food service 
+anecdotes/miscellaneous neutral lines crowds 
+food positive Pizza 
+food positive ambience positive shows food characters 
+service negative waiter beers manager reservations 
+anecdotes/miscellaneous negative dinner 
+food negative Sauce food flavor 
+food positive Sangria 
+food positive indian cuisine 
+service positive food positive pasta dish served 
+service negative bread appetizer glass of wine main course 
+food positive ambience positive neighborhood food 
+food positive Thai food 
+anecdotes/miscellaneous neutral waiter 
+service conflict hosting staff reservations reservation seating 
+food positive food dishes 
+food negative specials ingredients thai 
+food neutral apetizers food 
+food positive noodle and rices dishes 
+food positive food 
+food positive service positive crust staff ingredients 
+anecdotes/miscellaneous positive 
+price negative bagel 
+food negative food vegetables sauce 
+food positive fried clams 
+food negative sauces 
+food positive lunch menu appetizer entree 
+anecdotes/miscellaneous positive 
+food negative rice quality cooked 
+food positive champagne caviar 
+food positive shrimp scampi antipasti 
+anecdotes/miscellaneous negative 
+service positive dessert waiter 
+price positive food positive dim sum combo 
+anecdotes/miscellaneous neutral 
+ambience negative service negative seating food wait 
+food positive martini bar Roast Chicken 
+anecdotes/miscellaneous negative 
+service conflict table insde table wait 
+anecdotes/miscellaneous positive 
+price positive prices 
+food positive chicken vindaloo spicy food 
+anecdotes/miscellaneous positive 
+food positive price positive lunch specials 
+food positive bar food menu hand-crafted beers 
+anecdotes/miscellaneous negative 
+food positive 
+price negative drink 
+food conflict 
+food positive service positive anecdotes/miscellaneous positive food service 
+anecdotes/miscellaneous negative 
+food positive price positive capex bagels 
+service positive 
+anecdotes/miscellaneous neutral chefs 
+ambience positive decor 
+ambience positive back garden outdoor seating 
+anecdotes/miscellaneous positive 
+food neutral anecdotes/miscellaneous neutral nigiri 
+ambience conflict architecture place 
+anecdotes/miscellaneous neutral dinner 
+anecdotes/miscellaneous neutral 
+food positive ambience negative price positive drinks place 
+anecdotes/miscellaneous neutral 
+food positive anecdotes/miscellaneous positive food 
+food positive eggplant 
+anecdotes/miscellaneous positive 
+food positive food 
+food positive price positive food quality of food priced 
+price negative 
+food positive mushroom pizza 
+food conflict cod with paella fish and chips serving fish fries 
+service negative ambience positive place service 
+anecdotes/miscellaneous neutral 
+food negative calamari 
+food negative porcini mushroom pasta special seafood tagliatelle 
+food positive spicy wontons salt pepper shrimps 
+food positive FOOD PORTIONS 
+food positive fries 
+service positive staff bar service 
+food positive Taiwanese food 
+anecdotes/miscellaneous negative 
+food positive food 
+food positive pastas homemade lasagna 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food negative 
+anecdotes/miscellaneous positive 
+service negative dessert menu tip 
+price negative prices 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous conflict 
+service negative staff 
+service negative service 
+anecdotes/miscellaneous positive 
+ambience positive music in-house lady DJ 
+price negative rolls 
+anecdotes/miscellaneous negative 
+food positive price positive 
+food positive price positive wine list priced 
+food negative hot dogs buns 
+food positive price conflict food 
+food positive Beef noodle soup 
+anecdotes/miscellaneous negative 
+service positive Delivery service 
+food positive food Thai cuisine flavors 
+service positive service 
+food conflict pizza 
+ambience positive place 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive food food herbs tomatoes 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative food positive food 
+food negative shredded cheese 
+ambience positive price positive prices ambience 
+food positive soup 
+anecdotes/miscellaneous positive reservation 
+food positive root vegetables mushroom consomme chef 
+service positive served 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+service negative food ambiance service wait staff 
+anecdotes/miscellaneous positive 
+food positive Shabu-Shabu dinner beef 
+food negative pizza cheese 
+food positive food 
+food positive service negative ambience negative comfort decor wait staff meals pho vegtables 
+food negative service conflict ambience conflict service ambiance food presentaion taste choice quality quantity 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive bar scene 
+anecdotes/miscellaneous neutral 
+food negative service positive people pizza 
+food positive food 
+food positive food oil 
+food negative service positive portions sauces service 
+price positive food positive price 
+service positive food positive owner pizza 
+ambience positive atmosphere 
+ambience positive 
+service negative price negative food negative food wait-staff service management diner 
+food positive sea urchin 
+food positive service negative service food 
+food conflict bruscetta salads dishes mix of greens iceberg served 
+anecdotes/miscellaneous positive 
+ambience neutral price positive atmosphere prices 
+food positive pickles 
+food negative General Tao chicken Chinese food 
+food positive shrimp appetizers 
+food positive service positive cuisine service 
+ambience negative 
+food positive anecdotes/miscellaneous positive food 
+food negative service negative Waiters food portions drinks entree 
+anecdotes/miscellaneous neutral price conflict food 
+ambience positive 
+food positive cold appetizer dishes 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral bar 
+food positive service positive ambience positive wines service decor 
+anecdotes/miscellaneous negative 
+service positive reservation drink bar 
+food positive parmesean porcini souffle lamb glazed with balsamic vinegar 
+anecdotes/miscellaneous positive 
+food neutral food 'gourmet' Indian cuisine 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+ambience negative bar pub 
+anecdotes/miscellaneous positive 
+food positive corned beef sandwich 
+food positive pizza 
+price negative Priced 
+food conflict fish 
+anecdotes/miscellaneous positive 
+food negative price negative food amount 
+food positive olive cream cheese lox spread bagel 
+anecdotes/miscellaneous positive food positive price positive 
+anecdotes/miscellaneous negative 
+food neutral 
+service positive service server table 
+anecdotes/miscellaneous negative ambience negative music 
+food positive rice to fish ration rice 
+food neutral shredded cheese 
+anecdotes/miscellaneous neutral 
+food positive price positive food selecion of wines prices 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service positive wait staff 
+food positive Godmother pizza 
+food positive dishes 
+food positive ambience positive thai cuisine 
+anecdotes/miscellaneous positive price negative 
+price positive prices location 
+food neutral price neutral food prices 
+food negative food 
+food negative crab cocktail lime juice concoction lime 
+food positive menu items 
+food positive service positive food wine service 
+food neutral dessert 
+anecdotes/miscellaneous positive 
+price positive food positive dinner 
+food positive corned beef 
+anecdotes/miscellaneous positive 
+food positive Chicken pad tai 
+anecdotes/miscellaneous neutral 
+price positive sushi 
+anecdotes/miscellaneous positive 
+food positive 
+food positive service positive ambience positive fish service ambiance location 
+ambience positive outdoor seating 
+food positive ambience positive wine ambience wine 
+anecdotes/miscellaneous neutral sake 
+food positive dumplings 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+ambience positive crowd 
+food negative turkey burger salmon 
+service conflict service 
+ambience neutral Decor 
+food positive drinks 
+food positive service positive price positive food prices service 
+anecdotes/miscellaneous neutral Chinese food 
+food positive Pizza Margheritta 
+food positive ambience positive place Thai food 
+anecdotes/miscellaneous neutral 
+food positive menu 
+service negative table 
+anecdotes/miscellaneous neutral eel 
+food positive lox mussels cod trout dinner 
+food negative crispy chicken 
+anecdotes/miscellaneous positive 
+food positive Food 
+food positive 
+food positive meatballs caprese salad beans on toast meal 
+ambience negative place 
+anecdotes/miscellaneous positive 
+ambience positive atmosphere 
+anecdotes/miscellaneous positive 
+service negative diners reservations tables lobby waiting 
+food positive wine tapas pita bread 
+price positive service positive waitresses price service menu food 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+food negative anecdotes/miscellaneous negative Dim Sum 
+anecdotes/miscellaneous positive 
+food positive service positive variety delivery 
+food positive service positive service food 
+service positive ambience positive service seat 
+anecdotes/miscellaneous negative Dinner 
+ambience negative people 
+food negative price negative sandwiches 
+anecdotes/miscellaneous neutral 
+price positive Price 
+food positive fried rice 
+service positive staff manager menu selections 
+anecdotes/miscellaneous negative dining experience 
+price positive 
+anecdotes/miscellaneous neutral 
+service negative serves 
+ambience negative front doors 
+service positive ambience positive service 
+ambience positive back garden sitting area personal herb garden 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive pastrami sandwiches Mexican food 
+anecdotes/miscellaneous negative 
+food positive price positive drinks wine selection priced 
+food positive house salad 
+ambience positive ceiling 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+service negative food negative check table glass of water 
+food positive french food 
+ambience negative live music space jazz nights 
+food positive Food 
+anecdotes/miscellaneous neutral 
+ambience positive establishment 
+anecdotes/miscellaneous negative 
+food negative entree dessert 
+anecdotes/miscellaneous positive 
+ambience negative 
+service positive staff 
+food conflict food lemon salad pepper 
+food conflict Pad thai lad nar dishes places thai food 
+food positive price positive ambience negative food price front door 
+food positive Guizhou chicken fish with hot bean source fish fillet in spicy source special menu 
+price positive anecdotes/miscellaneous neutral prices 
+ambience conflict open kitchen 
+anecdotes/miscellaneous positive 
+food negative Pizza 
+food positive food bhelpuri sevpuri samosa chaats indian appetizers bombay style chaat 
+food negative Singapore Mai Fun curry flavor 
+service negative manager 
+food positive wine list 
+service negative 
+food negative food 
+anecdotes/miscellaneous neutral dinner location 
+food positive Indian restaurant food 
+ambience positive AT MOSHPHERE 
+food positive pizza 
+food positive service negative ambience conflict Thai food service 
+ambience negative 
+service negative waiter water 
+food positive food 
+service negative bill 
+ambience negative 
+service positive reservations tips stuff 
+food positive sea bass 
+food positive price positive sushi sushi places quality 
+anecdotes/miscellaneous positive 
+ambience conflict 
+price negative food neutral Sushi price 
+service positive management meal round of drinks 
+service negative toaster 
+food positive ambience negative food 
+food conflict taste menu choices flavor 
+food positive Dosa 
+food positive portions appetizer entree 
+food negative appetizers main courses 
+food negative dessert 
+food positive exotic food 
+service positive staff table 
+anecdotes/miscellaneous negative 
+food positive mediterranean salad 
+anecdotes/miscellaneous neutral 
+ambience conflict 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service positive People 
+food positive cream cheeses coffee 
+food positive entrees sides drinks 
+anecdotes/miscellaneous neutral 
+service positive Service 
+food negative beef version beef 
+ambience positive decor 
+food conflict thai 
+price positive 
+anecdotes/miscellaneous neutral 
+service negative club soda, filled with ice, no lime 
+food positive wine beer house varities served 
+anecdotes/miscellaneous negative owners cost 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive pudding dessert 
+ambience neutral 
+food positive vegetable samosa malai tikka wrap 
+service negative food negative chef waitress 
+anecdotes/miscellaneous neutral drinks 
+food positive wine selection 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous conflict bar waiting table 
+food positive meal 
+anecdotes/miscellaneous positive 
+ambience conflict 
+food conflict goat cheese panchetta raddichio 
+food negative service negative food service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive service positive food service 
+food positive kinds of beer drink 
+anecdotes/miscellaneous positive 
+food negative price negative price portions 
+food positive service positive bartender champagne turnip soup with pureed basil 
+anecdotes/miscellaneous positive 
+service negative 
+food positive service positive food service 
+food positive price positive dish Thai spiced curry noodles with shrimp dish cost 
+ambience positive atmosphere music 
+food negative portions portion main course 
+food negative thai 
+anecdotes/miscellaneous neutral 
+ambience positive brunch nightcap 
+ambience positive 
+service positive food suggestions server sommelier fromager wine cheese 
+anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive back garden reservation 
+food neutral Japanese food 
+anecdotes/miscellaneous neutral 
+food positive service negative food service 
+price conflict 
+service negative Service price category 
+ambience positive entertainment 
+anecdotes/miscellaneous neutral reservations 
+anecdotes/miscellaneous positive 
+food positive pizza 
+food positive price negative food lunch 
+anecdotes/miscellaneous negative 
+service positive anecdotes/miscellaneous neutral seved 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+food positive service positive ambience positive signs specials menus food waitstaff 
+anecdotes/miscellaneous negative 
+food positive scallop roll sesame chicken 
+anecdotes/miscellaneous neutral food 
+anecdotes/miscellaneous neutral bill 
+anecdotes/miscellaneous negative 
+food positive nori-wrapped tuna dish 
+food positive food 
+service negative servers food 
+food negative anecdotes/miscellaneous positive fast food food 
+anecdotes/miscellaneous positive food positive seafood 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+service positive staff 
+price positive all you can eat deal 
+food negative price negative dish taste dishes 
+anecdotes/miscellaneous positive 
+food negative price negative meat patties in steamed buns 
+anecdotes/miscellaneous negative 
+food positive price positive pizzas price 
+food negative ambience negative FOOD Ambiance 
+food positive food 
+anecdotes/miscellaneous positive 
+service negative waiter 
+ambience positive dining room music 
+food positive sushi fish 
+anecdotes/miscellaneous positive 
+service positive 
+food positive menu variety of dishes seafood 
+service positive 
+food positive white bean brushetta pasta 
+food conflict menu eats 
+food negative menu 
+food positive service positive ambience positive food lay out service 
+service negative cart attendant lotus leaf wrapped rice rice 
+anecdotes/miscellaneous negative 
+service positive seated 
+anecdotes/miscellaneous positive 
+service positive wait staff 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service conflict waitstaff service 
+food positive ambience positive food feel taste 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food positive service positive price positive price food service 
+anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+food positive flavors menu 
+food positive service positive ambience positive food service ambience 
+ambience positive interior place 
+food positive food 
+food positive sashimi plate 
+ambience neutral atmosphere 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative 
+service negative waitress servants 
+food positive service neutral food service 
+anecdotes/miscellaneous negative 
+food neutral ambience negative price negative food noise 
+anecdotes/miscellaneous positive 
+service negative food negative chicken dish manager dish 
+food positive food 
+anecdotes/miscellaneous neutral 
+price conflict food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral lunch 
+anecdotes/miscellaneous negative 
+service negative Bartender bar 
+food negative food 
+food neutral prix fixe lunch buffet 
+ambience conflict place 
+ambience negative 
+food positive service positive food service 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral drinks appetizers 
+food positive hot bagel 
+food negative chicken oil pepper powder sauce 
+service negative waiter drinks 
+anecdotes/miscellaneous positive 
+service negative 
+food neutral service neutral price negative food service tip 
+food positive glass of Sangria 
+anecdotes/miscellaneous positive table by the window 
+food positive service negative food service waiter service 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service positive service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+food positive menu 
+food conflict food food 
+food positive jalapeno 
+food neutral pad see ew dishes 
+anecdotes/miscellaneous positive 
+ambience positive back patio music 
+ambience positive location 
+food conflict Guacamole+shrimp appetizer filet frites filet 
+price positive lunch special 
+food neutral food 
+food positive price positive food price 
+food positive service positive The chicken pot pie cheeseburger service 
+food conflict ambience conflict food ambience 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service conflict employees 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral dinner brunch 
+anecdotes/miscellaneous positive 
+price negative prices 
+anecdotes/miscellaneous positive 
+service positive staff 
+food positive service positive Service food 
+anecdotes/miscellaneous neutral 
+service positive service 
+ambience conflict food positive meal 
+food positive spicy ethnic foods 
+anecdotes/miscellaneous negative 
+ambience conflict dinner snacking 
+food positive ambience positive quality of food live jazz 
+food positive anecdotes/miscellaneous neutral food 
+food positive SEASONAL beer bartender 
+ambience positive ambiance 
+anecdotes/miscellaneous neutral food 
+price positive sandwiches 
+anecdotes/miscellaneous neutral 
+food neutral service neutral Service food 
+ambience positive atmosphere 
+food positive course 
+price conflict 
+service positive staff 
+service positive service 
+food positive cook 
+anecdotes/miscellaneous positive 
+food positive Yellowtail 
+anecdotes/miscellaneous neutral 
+service positive 
+food positive clams oreganta salad with perfectly marinated cucumbers and tomatoes with lots of shrimp and basil 
+food negative menu portions lentil dish basmati rice dish flavor 
+ambience positive price positive menu 
+service positive ambience positive cigar bar staff 
+anecdotes/miscellaneous neutral 
+ambience positive price positive ambient 
+anecdotes/miscellaneous negative 
+food positive sushi 
+food positive cheescake 
+price conflict Bill 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+service negative delivery 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+ambience positive entertaining 
+ambience negative ambience 
+anecdotes/miscellaneous neutral drink 
+food positive Fluke sashimi jalapeno-lime olive oil fruit of the oil fish 
+food positive sushi 
+food positive price positive meal price 
+price negative rice 
+food negative steak au poivre 
+anecdotes/miscellaneous positive 
+ambience positive staff ambiance owner 
+food positive congee bread donut like deep fried dough they call Ow Ley Soh 
+food positive service positive ambience conflict candle-light food-quality service tables 
+food positive service positive food waiter 
+food positive service positive caviar waitstaff 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food conflict food ethnic food 
+ambience conflict place 
+price positive ambience conflict food money place 
+service positive ambience positive Ambience service 
+service positive ambience positive Service AC 
+food positive price negative 
+service positive people 
+food positive service positive cooks 
+anecdotes/miscellaneous neutral 
+food positive sushi rolls 
+price neutral prices dinner menu to sit take out 
+food positive service positive ambience positive staff food place 
+anecdotes/miscellaneous neutral 
+food positive Scallion Pancake vegetable juice Guizhou Chicken Shredded Squid Family Style Sichuan Spicy Soft Shell Crab Shuizhu Fish Sichuan food 
+food negative spinach mushroom calzone canned vegetables 
+anecdotes/miscellaneous neutral food 
+price positive Blue Point oysters beer glass of wine 
+food conflict noodle dishes Green Curry dish 
+anecdotes/miscellaneous positive 
+price negative prices 
+anecdotes/miscellaneous neutral service negative price negative food negative service food 
+ambience positive atmoshere 
+anecdotes/miscellaneous negative 
+food positive spicy tuna roll rock shrimp tempura appetizer 
+service positive staff 
+service positive staff 
+service negative price negative cost meal seat 
+food positive dessert White Chocolate Bread Pudding with Gelato and hot chocolate dinner 
+food positive banana tower dessert 
+anecdotes/miscellaneous neutral 
+food positive service positive ambience positive atmosphere dishes service 
+food positive ambience positive place drinks desserts 
+ambience positive vibe 
+food conflict food food 
+anecdotes/miscellaneous neutral 
+service conflict service dinner table 
+ambience negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food negative icing on the cake tiramisu 
+food positive price positive food prices 
+food conflict Wine list 
+food positive ambience positive bar food beer 
+food positive specials 
+ambience positive service positive ambience service 
+food positive french cuisine portions 
+service negative Drinks 
+food positive vegetarian entree Abby's treasure wintermelon assortment of fresh mushrooms and vegetables 
+price positive dumplings 
+price negative pizza 
+service positive staff 
+food positive Steak au Poivre Onglet 
+service conflict Service prices reputation 
+food positive meal 
+food positive drink 
+food positive service positive ambience positive food spinach and corn dumplings service bathroom massamman curry 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral dinner 
+ambience positive 
+anecdotes/miscellaneous negative ceiling dinner 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food negative chow fun and chow see 
+anecdotes/miscellaneous positive ambience positive table reservation seated 
+service negative pita naan 
+food positive menu oysters 
+anecdotes/miscellaneous neutral 
+food negative grilled cheese 
+service positive 
+ambience negative doors 
+food positive service positive service food 
+price negative food positive food 
+food conflict service negative food service service good 
+service negative anecdotes/miscellaneous negative waitress check 
+ambience positive terrace 
+food positive ambience positive design drinks food bar 
+anecdotes/miscellaneous neutral 
+service negative bar 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive seafood place 
+service positive service 
+food positive price positive 
+price negative prices 
+ambience conflict 
+anecdotes/miscellaneous positive service negative price negative service 
+food positive anecdotes/miscellaneous positive cheese menu 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive atmoshere 
+food negative Japanese cuisine 
+food neutral food appetizers 
+ambience positive Jazz bands 
+anecdotes/miscellaneous positive 
+service conflict hostess wait table 
+service positive servers 
+service neutral service 
+service negative anecdotes/miscellaneous negative dish 
+anecdotes/miscellaneous positive 
+ambience negative tables 
+food positive service positive ambience positive staff ambiance food 
+food positive service positive food halibut special steak service 
+service negative manager bill 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive japanese comfort food 
+price positive half price sushi deal 
+service positive reservation seated 
+ambience positive 
+anecdotes/miscellaneous neutral appetizer platter 
+service positive staff 
+food positive 
+ambience positive dress codes attitudes place 
+food positive pieces of sushi 
+food positive pasta 
+food negative menu dumplings appetizer 
+anecdotes/miscellaneous conflict service negative food conflict jewish deli food 
+service positive manager 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative toaster 
+anecdotes/miscellaneous positive 
+service positive food positive Neapolitan pizza zucchini blossoms 
+food positive service negative Wait staff pie 
+food positive ingredients crust slice 
+food positive Fish 
+price positive service positive food positive prices service food 
+anecdotes/miscellaneous negative 
+food positive price positive Vietnamese classics 
+service positive wait time 
+food positive ambience positive 
+ambience negative decor 
+anecdotes/miscellaneous neutral ambience positive fish tanks 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative owner 
+food positive pizza 
+anecdotes/miscellaneous neutral 
+food negative beef noodle soup dishes menu 
+food positive cream cheeses salads 
+food positive lobster sandwich spaghetti with Scallops and Shrimp 
+food positive food 
+food positive price positive dim sum prices 
+food positive spinach ravioli in a light oil and garlic sauce dish dishes 
+anecdotes/miscellaneous negative Japanese food 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous conflict 
+food negative 
+food negative Chicken Teriyaki dish chicken 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service negative anecdotes/miscellaneous negative reservations 
+food positive Pam's special fried fish 
+anecdotes/miscellaneous neutral 
+service negative service 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food positive New England Chowder Lobster Bisque 
+food conflict pizzas 
+food positive price negative sushi 
+anecdotes/miscellaneous positive 
+food negative wines by the glass 
+food positive duck breast special 
+price negative food 
+food positive french indian fusion dishes 
+ambience negative seat bar 
+food positive food 
+anecdotes/miscellaneous positive service positive wait 
+food positive fried shrimp 
+food positive 
+food negative food 
+service negative service table 
+food neutral anecdotes/miscellaneous neutral appetizer cheese fondue 
+ambience positive 
+food positive 
+service negative table reservations 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive anecdotes/miscellaneous positive 
+service positive manager reservation bar wait 
+food positive green curry 
+food positive scallops appetizer sauce 
+service positive service reservation 
+food positive service positive seat currys (masaman, green, red) flavor 
+food positive food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive food positive dinner drinks 
+food positive bar beers wines priced 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative service negative reservations 
+food positive food 
+food positive wine selection Gigondas house champagne price 
+ambience negative music 
+anecdotes/miscellaneous negative 
+food positive anecdotes/miscellaneous positive fish 
+food positive yellowfun tuna mussel selection 
+anecdotes/miscellaneous positive bagel 
+ambience positive scenery dinner reservations 
+anecdotes/miscellaneous positive 
+ambience positive place 
+food positive price positive Cheese plate 
+food negative glasses of water 
+service positive service 
+service positive servers 
+anecdotes/miscellaneous neutral 
+service neutral Service 
+food positive Godmother pizza (a sort of traditional flat pizza with an olive oil-brushed crust and less tomato sauce than usual) specials 
+anecdotes/miscellaneous positive 
+service negative sandwich plastic forks pita hummus platter 
+food positive steak fish sushi 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive pizza 
+service negative ambience negative service staff 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral ambience neutral 
+anecdotes/miscellaneous neutral 
+service positive 
+food positive ambience positive cocktails decor sushi 
+food positive apple tarte tatin dinner 
+food positive buffet selection 
+service positive Waitstaff 
+anecdotes/miscellaneous positive 
+ambience neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+service negative Service food 
+anecdotes/miscellaneous neutral chocolate 
+price positive 
+ambience neutral 
+food negative service negative ambience negative food service ambience 
+ambience positive SHOWS ACTORS 
+anecdotes/miscellaneous neutral New York Bagel 
+service positive service 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food negative miso soup fish flavor 
+anecdotes/miscellaneous positive 
+food positive bagels 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral ambience food 
+ambience positive space 
+food neutral price neutral filets sides appetizer drinks 
+price positive food positive prices portions 
+ambience positive food positive location meal 
+anecdotes/miscellaneous negative dinner 
+ambience positive spot 
+price negative food positive menu food Prix Fixe 
+anecdotes/miscellaneous neutral 
+food positive wine list 
+service positive waitress 
+service conflict staff 
+food positive quail pastas flavor 
+anecdotes/miscellaneous neutral ambience negative 
+anecdotes/miscellaneous neutral 
+food positive zucchini mashed potatoes garlic butter 
+service positive staff 
+anecdotes/miscellaneous positive 
+service positive ambience positive Decor service 
+food positive service negative service food drinks 
+anecdotes/miscellaneous positive 
+food positive Spicy Scallop roll 
+anecdotes/miscellaneous positive price positive food positive Indian dining experience 
+ambience conflict Pub atmosphere 
+price positive sushi 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive price positive 
+anecdotes/miscellaneous neutral 
+service negative workers order 
+food positive specials 
+food positive desserts mixed drinks snack foods 
+food positive chocolate mud cake (warmed) dulce de leche gelato 
+anecdotes/miscellaneous conflict 
+ambience positive stauff 
+anecdotes/miscellaneous neutral ambience positive food negative classical furniture menu 
+food positive burger 
+anecdotes/miscellaneous neutral menu 
+food positive cole slaw knish 
+anecdotes/miscellaneous conflict price conflict 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral dinner reservations 
+food positive service positive ambience positive blond wood decor sake service 
+anecdotes/miscellaneous conflict wait 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative money 
+service negative bagel eggs bagel 
+food positive glass of wine 
+anecdotes/miscellaneous neutral 
+service positive wait staff 
+ambience negative atmosphere bagel 
+service positive Service 
+food neutral chicken tikka-masala garlic naan dinner 
+ambience positive dinner setting 
+ambience negative service negative 
+anecdotes/miscellaneous positive 
+food positive ambience positive Food view 
+food negative 
+food negative food menu description 
+food positive Pad Se-Ew Chicken with Cashew Nuts 
+food neutral pizza 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food neutral ambience conflict food ambience 
+anecdotes/miscellaneous positive 
+service conflict service 
+anecdotes/miscellaneous negative 
+ambience positive 
+anecdotes/miscellaneous positive 
+food positive ambience positive specials atmosphere French bistro fare 
+food positive food 
+food positive Shabu-Shabu 
+food negative food 
+food conflict Food 
+ambience negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral dinner special 
+ambience conflict 
+anecdotes/miscellaneous neutral service negative food positive food people with carts of food 
+food positive crackling calamari salad 
+food neutral price positive sushi place 
+anecdotes/miscellaneous positive group dinner 
+food positive Thai ice tea 
+service positive staff 
+price negative Drinks priced 
+service negative noise level guy 
+food negative food 
+anecdotes/miscellaneous negative 
+price neutral prices 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive meals 
+food conflict food 
+ambience neutral 
+anecdotes/miscellaneous neutral 
+food positive food 
+anecdotes/miscellaneous positive 
+ambience conflict roofdeck music 
+anecdotes/miscellaneous positive 
+service positive manager 
+anecdotes/miscellaneous neutral 
+service neutral food neutral service sesame crusted Salmon 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive lunch 
+food neutral service negative food service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral crowd noise 
+food positive ambience positive price positive eats drinks setting 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service negative service served 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive anecdotes/miscellaneous positive 
+food positive ambience conflict price negative atmosphere people food 
+service negative desserts drinks 
+anecdotes/miscellaneous positive 
+service conflict Waiters 
+anecdotes/miscellaneous neutral dinner brunch lunch 
+anecdotes/miscellaneous neutral 
+food positive menu beef cubes chicken with chili and lemon grass 
+anecdotes/miscellaneous conflict 
+ambience positive music 
+food positive bread lamb chops meal 
+anecdotes/miscellaneous neutral 
+service positive ambience positive service atmosphere 
+anecdotes/miscellaneous neutral beer 
+anecdotes/miscellaneous positive 
+service negative noodles sugar dishes 
+food positive Chicken Tikka Masala 
+food positive ambience positive dumplings decor 
+service negative kitchen 
+food positive corned beef pastrami 
+service positive ambience positive wait staff place 
+anecdotes/miscellaneous positive 
+service positive hostess 
+service conflict people 
+price positive 
+food positive plain slice toppings 
+service negative ambience negative Service ambience 
+food positive service positive Service takeout 
+anecdotes/miscellaneous neutral 
+food positive price positive pizza 
+food positive ambience positive menu view 
+price positive 
+price negative food negative quality of food 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+ambience negative fish tanks 
+anecdotes/miscellaneous positive wait 
+food positive service positive service fish 
+food neutral ambience positive live jazz band atmosphere Lobster Cobb Salad 
+ambience positive tea room 
+anecdotes/miscellaneous positive food positive meal 
+food positive apppetizers 
+service positive staff 
+price positive dinner 
+anecdotes/miscellaneous neutral 
+price negative sandwiches chips side 
+anecdotes/miscellaneous positive 
+ambience positive wait dim sum dim sum atmosphere tables 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative price negative food neutral money indian food 
+food positive service positive ambience positive service decor 
+price positive 
+food positive Thai food 
+anecdotes/miscellaneous neutral 
+food positive selection of wine seafood 
+food positive 
+price positive prices 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral sushi bar 
+anecdotes/miscellaneous neutral 
+food positive price positive taste 
+service positive 
+price negative price 
+food positive service positive French food service 
+service positive table 
+food positive price positive food prices 
+food positive Salads meal 
+food positive tamarind duck noodles with ground beef dishes Thai flavors 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral ambience positive view 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+price positive prices entree dinner lunch 
+price positive prices 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive cuisine 
+food positive black cod with yuzu sauce 
+price negative ambience negative Prices 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+service negative ambience positive spot 
+service negative wait reservations 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food negative service negative bread salad service food wait 
+food positive 
+food positive price positive 
+food positive pizza sicilian 
+ambience positive Downstairs lounge 
+price negative food negative menu prices quality portion size 
+food positive service positive food service 
+service negative food busboy waiter cheese pasta water and wine glasses wine meal 
+service positive takeout 
+food negative food sauces 
+anecdotes/miscellaneous positive 
+price negative prix fixe meal 
+ambience positive ambiance night scene spot 
+anecdotes/miscellaneous positive 
+food conflict expresso 
+service positive 
+service positive waitress 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive ambience positive shows actors 
+food positive service positive service food hot sauce meals 
+food neutral anecdotes/miscellaneous negative food 
+ambience negative ambiance 
+ambience negative 
+service positive service dining 
+food positive thai popcorn 
+anecdotes/miscellaneous positive 
+food positive ambience positive drinks decor food 
+service negative chef check 
+food positive parathas kebabs 
+anecdotes/miscellaneous positive 
+food positive tuna wasabe potatoes 
+service negative coat check girls coat check girls 
+anecdotes/miscellaneous neutral food positive food 
+food positive beer 
+anecdotes/miscellaneous positive 
+ambience conflict 
+food positive service positive desserts cannoli after dinner drink 
+ambience positive outdoor seating vibe 
+anecdotes/miscellaneous negative prix fixe pricing 
+service negative room area 
+anecdotes/miscellaneous positive owners 
+anecdotes/miscellaneous positive ambience positive ambiance 
+food positive ambience positive tanks tanks dim sum brunch 
+food negative service negative Halibut dessert service 
+food positive ambience positive view food 
+anecdotes/miscellaneous neutral ambience conflict place food 
+food positive bagels cream cheese 
+food positive service positive food service 
+price positive priced 
+service positive service 
+food positive food 
+anecdotes/miscellaneous positive 
+food negative chicken casserole chicken meat 
+anecdotes/miscellaneous neutral ambience negative mezzanine 
+anecdotes/miscellaneous neutral Valentines Day dinner 
+food positive jelly fish drunken chicken soupy dumplings stir fry blue crab 
+anecdotes/miscellaneous positive ambience positive SHOWS 
+anecdotes/miscellaneous neutral 
+food positive dumplings meal dumpling menu 
+ambience negative aesthetics place 
+food positive price positive box wine 
+food positive anecdotes/miscellaneous positive food 
+food negative service negative fish staff sushi chef 
+food neutral service negative food service 
+food positive ambience positive pizza atmoshpere 
+anecdotes/miscellaneous neutral seats 
+food negative service negative roll menu 
+anecdotes/miscellaneous positive 
+food positive food 
+anecdotes/miscellaneous neutral 
+food negative rolls sashimi 
+food positive pesto pizza Italian cheese thin-crust pizza 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive price conflict shrimp appetizer price lamb vindaloo 
+ambience positive food negative ambience food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food conflict service negative Food wait 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+ambience negative 
+anecdotes/miscellaneous positive dinners 
+food positive beef 
+food positive spices onions eggs roti 
+food positive price positive food price 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral service positive table 
+anecdotes/miscellaneous positive 
+price negative anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive menu potato pancakes 
+anecdotes/miscellaneous positive fried dumpling 
+service negative anecdotes/miscellaneous positive staff service 
+anecdotes/miscellaneous positive food positive primi secondi portions 
+anecdotes/miscellaneous negative 
+service negative anecdotes/miscellaneous negative employees dining area 
+food positive crab cakes 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative dining experience 
+service positive service staff 
+service negative waiter 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive bruschetta panini 
+food neutral Food 
+anecdotes/miscellaneous negative waitress 
+anecdotes/miscellaneous positive 
+ambience conflict wait 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience conflict 
+anecdotes/miscellaneous neutral Sichuan chef 
+anecdotes/miscellaneous neutral 
+food negative spicy tuna roll serving nori 
+ambience positive patio 
+food positive Pastrami portion 
+food neutral food 
+food positive drinks 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food conflict courses chocolate sampler dessert wine 
+food negative Butter white wine cheese 
+service positive private room 
+anecdotes/miscellaneous positive 
+ambience negative ambience place aisle 
+anecdotes/miscellaneous positive 
+food negative pre-fixe menu choices per course ordering a la carte 
+food positive Pakistani food 
+service positive staff chef 
+anecdotes/miscellaneous negative 
+food positive anecdotes/miscellaneous positive eggplant parmesan baked ziti with meatsauce serves 
+food positive price positive ingredients price 
+service positive Service 
+food negative hot pot with seafood shrimp squid entree crabmeat 
+food neutral cheese fondue kielbasa apples 
+anecdotes/miscellaneous positive value lunch 
+food neutral curry food 
+anecdotes/miscellaneous negative food negative food menu 
+service positive table seated 
+anecdotes/miscellaneous negative food negative white sauce Chinese food 
+food positive bread paratha bread bread stuffing tandoori 
+service conflict price positive food positive Service prices delivery time pizza 
+food positive price conflict food food price food food food 
+food positive service positive ambience positive service decor food portions 
+anecdotes/miscellaneous positive ambience positive 
+service positive service 
+food neutral food 
+food positive Thai noodles with shrimp and chicken and coconut juice 
+anecdotes/miscellaneous positive 
+food positive pizza 
+anecdotes/miscellaneous negative menu items 
+food negative Food 
+food positive ambience negative place food 
+food positive food portion sizes 
+service positive ambience negative 
+anecdotes/miscellaneous positive 
+food positive Kosher dills sandwich 
+anecdotes/miscellaneous positive 
+ambience positive shows dinner entertainment 
+anecdotes/miscellaneous neutral 
+service positive price positive food waiters 
+food positive service negative food wait 
+service negative bartender 
+food positive sushi Kamikaze Rolls 
+food positive Thai food 
+ambience neutral 
+anecdotes/miscellaneous neutral 
+food negative price negative mayonaisse food runners bill fries 
+food positive braised lamb shank in red wine special 
+food positive wines wine list 
+anecdotes/miscellaneous negative 
+service negative waitstaff food 
+food positive iced tea 
+anecdotes/miscellaneous negative 
+food conflict salmon chicken servings entree 
+anecdotes/miscellaneous negative 
+food negative salads lettuce 
+ambience positive ambience place 
+service positive 
+ambience conflict bar tables waiter bartender atmosphere 
+food positive price positive food price fried dumplings 
+anecdotes/miscellaneous negative price negative prices 
+ambience positive 
+food positive Obv caviar menu 
+food negative price negative dishes 
+anecdotes/miscellaneous positive food positive 
+ambience negative 
+anecdotes/miscellaneous positive food dining experiences 
+service negative food 
+food positive pizza santa fe chopped salad fish and chips 
+ambience positive ambience 
+service negative service 
+food negative 
+food positive pizza 
+food positive price positive Tuna roll price range 
+food negative price negative Price fish quality 
+service positive waiter 
+food positive service positive ambience positive place dishes wine atmosphere served 
+food positive comfort food 
+food positive anecdotes/miscellaneous positive ingredients technique lunch dinner 
+food positive pastrami sandwich 
+ambience conflict table atomosphere room spot 
+food negative fish rice 
+price negative food negative price dish lunch special 
+food positive Indian Fast Food 
+service negative service money tip 
+anecdotes/miscellaneous neutral 
+food positive wine list 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive service positive price positive Service oysters price 
+food neutral bagel 
+food positive italian food 
+service positive service 
+anecdotes/miscellaneous positive 
+ambience negative price negative prices atmosphere 
+service negative 
+food conflict price negative menu drinks 
+food positive anecdotes/miscellaneous positive ambience positive atmosphere food 
+food positive food portions 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative place place 
+service negative service 
+ambience negative Ambiance management 
+food negative portions appetizers appetizer main entree cold udon chef menu dish portions 
+service negative food rice 
+food negative sashimi portions 
+service negative main course waiter 
+anecdotes/miscellaneous positive 
+price positive snapple 
+service neutral apps 
+anecdotes/miscellaneous positive 
+service positive ambience positive Service decor 
+food negative dosas popcorn topping 
+food positive service positive service food 
+anecdotes/miscellaneous negative ambience negative scene customers 
+anecdotes/miscellaneous neutral seafood 
+ambience positive ladies 
+service negative wait 
+food positive 
+food conflict food 
+food negative service positive people serving food 
+food positive fillings dosa batter 
+anecdotes/miscellaneous positive ambience positive lunch dinner pre-theatre or after-theatre drinks spot 
+anecdotes/miscellaneous positive 
+food negative mussaman curry fried tofu potato 
+anecdotes/miscellaneous neutral dinner 
+food positive service positive ambience positive food service atmosphere 
+food positive sake martini 
+ambience negative place 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive Gnochi 
+anecdotes/miscellaneous positive dining 
+service positive anecdotes/miscellaneous positive service 
+anecdotes/miscellaneous positive 
+food neutral Bagels 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+ambience positive 
+ambience negative 
+food positive quality 
+anecdotes/miscellaneous negative price negative price 
+anecdotes/miscellaneous neutral lunch buffet 
+food positive food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative rice dinner 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food conflict portions food 
+service positive serve 
+ambience positive setting 
+anecdotes/miscellaneous positive 
+food positive service positive price conflict service food prices 
+food neutral price neutral appetizer entrees cokes bill 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive drumsticks over rice sour spicy soup 
+ambience positive 
+food negative price negative wines 
+food positive whitefish salad whitefish mayo 
+price positive price congee noodles rice dishes 
+service negative 
+anecdotes/miscellaneous positive 
+food negative chicken parm chicken with portobello mushrooms chicken tomato sauce pasta sauce 
+anecdotes/miscellaneous positive meal 
+service positive waitresses counter service 
+service conflict staff member bar guy 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive anecdotes/miscellaneous positive price positive food prices 
+service positive service 
+service positive staff 
+anecdotes/miscellaneous neutral ambience positive upstairs 
+anecdotes/miscellaneous neutral 
+food negative red curry pad thai rice seafood 
+food positive price positive wine list meal priced 
+food positive Saul 
+food negative anecdotes/miscellaneous positive food 
+anecdotes/miscellaneous neutral appetizers 
+anecdotes/miscellaneous positive price positive Price Quality 
+anecdotes/miscellaneous conflict table dinner 
+food positive pad penang 
+food positive ambience negative food walls 
+food positive flavors 
+service negative people 
+food negative hanger steak tuna 
+price negative 
+anecdotes/miscellaneous positive pizza 
+food positive lunch food 
+anecdotes/miscellaneous neutral food positive food food 
+food positive food quasi-thai 
+food positive salad fast food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food negative bar 
+food conflict bagels bagel 
+food positive bagels 
+anecdotes/miscellaneous neutral 
+food positive barebecued salmon 
+anecdotes/miscellaneous neutral owner 
+food positive portions 
+food neutral workers bagel cream cheese 
+anecdotes/miscellaneous negative 
+food positive service positive wine service 
+food positive ambience positive menu 
+food positive chai tea 
+anecdotes/miscellaneous negative 
+food positive food 
+food positive Spicy Tuna hand rolls 
+ambience positive 
+food negative ambience positive food ambiance decor 
+anecdotes/miscellaneous positive ambience positive atmosphere 
+anecdotes/miscellaneous negative 
+food neutral meat dishes 
+service positive ambience positive hostess atmosphere 
+anecdotes/miscellaneous positive 
+food positive menu brassiere food 
+anecdotes/miscellaneous neutral food negative food quality 
+ambience positive atmosphere 
+anecdotes/miscellaneous negative 
+food neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive service positive Manager 
+service positive staff 
+food positive service negative ambience positive service food atmosphere 
+service negative service server 
+price positive prix fix three course meal glasses of wine course 
+anecdotes/miscellaneous positive 
+service negative water 
+service positive service place 
+food positive sushi 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral pizza 
+anecdotes/miscellaneous positive 
+food positive price positive ingredients 
+food negative price negative Thali 
+food positive sushi 
+food positive chef app delicate butternut squash ravioli in a delicious truffle sauce buttery and tender langostine entree dessert Cakebread Cabernet 
+service positive waiter 
+food positive service negative food 
+food positive cheesecake pastries 
+service positive staff bar drinks menu 
+food negative makhani korma 
+food positive food 
+anecdotes/miscellaneous positive 
+service conflict ambience conflict service 
+ambience positive decor place 
+anecdotes/miscellaneous conflict ambience positive place 
+food positive lox 
+service positive 
+service positive Service 
+food positive anecdotes/miscellaneous positive thai food 
+food positive Food fish 
+anecdotes/miscellaneous negative food positive chinese food 
+food positive foie gras terrine with figs duck confit 
+service negative staff 
+service conflict service 
+service positive staff service 
+anecdotes/miscellaneous negative price negative 
+food positive Gulab Jamun (dessert) waiter 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food negative price negative price freshness value quality 
+ambience positive place 
+price positive food positive food wine prices 
+food positive brioche and lollies meal 
+anecdotes/miscellaneous negative service negative 2-person table 
+price negative bill 
+food positive service positive price positive service food wine list priced 
+service positive wait staff 
+anecdotes/miscellaneous positive 
+food positive Salads 
+food positive service positive owners employees pizza 
+anecdotes/miscellaneous positive 
+food positive food mussels in spicy tomato sauce fries 
+food positive food 
+anecdotes/miscellaneous positive 
+food negative dessert 
+anecdotes/miscellaneous negative price negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral bagel 
+service negative servers 
+anecdotes/miscellaneous negative 
+service positive ambience positive service ambience 
+anecdotes/miscellaneous neutral case of snapple 
+food positive food 
+service positive service 
+anecdotes/miscellaneous negative 
+service positive staff bar 
+food positive chicken beef lamb dishes 
+service negative service food 
+food positive quality care food specials 
+ambience neutral 
+ambience conflict decor 
+anecdotes/miscellaneous positive price positive priced 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive service negative food service 
+service positive waiters 
+anecdotes/miscellaneous negative 
+food negative price negative noodles dimsum 
+service positive ambience positive service view 
+anecdotes/miscellaneous negative 
+service negative staff 
+anecdotes/miscellaneous neutral 
+food positive ambience positive food atmosphere 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food conflict price negative food 
+price negative prices 
+anecdotes/miscellaneous neutral dinner 
+food negative soup pepper 
+ambience positive 
+food positive sushimi cucumber roll 
+anecdotes/miscellaneous positive 
+food positive food 
+food positive price positive wines by the glass wine 
+service positive ambience positive place ambience staff 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral food neutral salt 
+anecdotes/miscellaneous neutral sushi 
+anecdotes/miscellaneous positive 
+ambience positive atmosphere 
+anecdotes/miscellaneous positive 
+food positive service positive food service 
+food positive bagels 
+anecdotes/miscellaneous neutral dinner 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+service positive Service 
+anecdotes/miscellaneous neutral staff 
+ambience positive 
+food positive potato chips bar 
+anecdotes/miscellaneous positive 
+food positive portions 
+anecdotes/miscellaneous neutral service negative table 
+food positive pasta entre'es 
+anecdotes/miscellaneous neutral 
+food positive steak butter flavor meat 
+anecdotes/miscellaneous positive 
+ambience positive 
+food negative price negative food 
+ambience positive ambience lunch 
+food positive menu rolls dishes 
+service negative service 
+food positive ambience positive food drinks atmosphere 
+anecdotes/miscellaneous negative service negative customer service 
+anecdotes/miscellaneous neutral 
+service negative 
+anecdotes/miscellaneous positive place oyster Fish 
+service negative anecdotes/miscellaneous negative maitre d' 
+anecdotes/miscellaneous neutral sushi bar chef ala carte 
+food positive service positive ambience positive vibe service food 
+ambience neutral table 
+food positive price positive quality 
+price negative 
+service positive ambience positive service atmosphere 
+anecdotes/miscellaneous neutral 
+food positive bagels 
+food positive Pad See Ew Pork Chops Tofu plates 
+food positive price positive taste quantity 
+food positive bartender food drinks steak with portobello mushrooms bar 
+service positive service 
+food positive main course portion 
+anecdotes/miscellaneous positive ambience positive service conflict reservation cocktails surroundings 
+anecdotes/miscellaneous neutral 
+service positive Waitstaff 
+anecdotes/miscellaneous positive 
+food positive dinner menu 
+anecdotes/miscellaneous positive CUISINE 
+anecdotes/miscellaneous positive price negative 
+anecdotes/miscellaneous positive 
+food positive Indian food 
+food positive dishes 
+anecdotes/miscellaneous positive 
+ambience conflict wait noise rush 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+price negative bill 
+service positive bagels 
+anecdotes/miscellaneous neutral 
+ambience positive spot 
+service negative service delivery 
+anecdotes/miscellaneous positive 
+price negative bill 
+anecdotes/miscellaneous conflict 
+service positive ambience positive bar bartender service ambiance 
+anecdotes/miscellaneous positive 
+food positive calamari sauce duck noodles 
+food positive martinis 
+anecdotes/miscellaneous positive 
+food positive comfort food portions 
+anecdotes/miscellaneous neutral 
+food negative rolls menu avocado rice 
+anecdotes/miscellaneous neutral 
+service negative drink refills dessert 
+anecdotes/miscellaneous positive 
+price positive bagels priced 
+anecdotes/miscellaneous positive business dinner table 
+ambience negative Decor 
+anecdotes/miscellaneous neutral 
+food neutral food 
+service positive ambience positive price negative food negative waiter place prices food 
+anecdotes/miscellaneous neutral toppings 
+food positive anecdotes/miscellaneous positive price positive place Meal LOBSTER TAILS 
+service neutral espresso cup filled with chocolate mousse desserts 
+food positive Pho Lemon grass chicken Beef Cube on rice 
+ambience positive portraits 
+food positive food appitizers main course desserts 
+anecdotes/miscellaneous negative 
+food positive fish curry sauce 
+anecdotes/miscellaneous positive deli 
+food positive pork buns 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive service negative Thai food delivery 
+anecdotes/miscellaneous neutral ambience positive space drink 
+service negative ambience negative place 
+anecdotes/miscellaneous positive slice 
+ambience positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive price positive service positive dessert 
+service negative reservation 
+food positive food pastas pizza 
+food positive Food 
+food positive Lobster Bisque Maine Lobster 
+anecdotes/miscellaneous neutral 
+food positive price positive Pad Thai prices 
+anecdotes/miscellaneous neutral 
+food positive price positive Food 
+price positive price 
+food positive Dessert 
+food positive food 
+price negative 
+food positive Ingredients 
+anecdotes/miscellaneous negative food negative food 
+anecdotes/miscellaneous positive food positive price positive cuisine prices 
+anecdotes/miscellaneous positive price negative 
+food positive service positive ambience positive staff ambience food 
+food negative ingrediants cuisine food 
+food positive service positive ambience positive Pizza wine service backyard dining area 
+anecdotes/miscellaneous positive 
+food positive service positive price positive waiters food bill 
+anecdotes/miscellaneous negative 
+service positive service 
+anecdotes/miscellaneous neutral food positive menu food 
+service positive table 
+food conflict menu 
+anecdotes/miscellaneous neutral 
+food negative rice RICE 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive price negative chocolate cake vanilla gelato (with espresso) dessert 
+anecdotes/miscellaneous neutral 
+ambience positive surroundings dining rooms 
+anecdotes/miscellaneous neutral service positive reservation table 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral service positive reservation 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous conflict dining 
+service positive staff 
+food positive flavors 
+anecdotes/miscellaneous positive 
+food positive price positive oysters quality 
+anecdotes/miscellaneous negative table 
+food positive tiramisu chocolate cake 
+service negative counter service 
+anecdotes/miscellaneous positive 
+food positive service positive Service food 
+anecdotes/miscellaneous conflict 
+ambience positive place 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food positive sauce crust 
+anecdotes/miscellaneous positive ambience positive 
+anecdotes/miscellaneous neutral dinner brunch 
+food neutral price negative ambience negative decore food 
+food positive entrees 
+anecdotes/miscellaneous positive 
+service neutral service 
+food positive food served portions dish 
+anecdotes/miscellaneous positive 
+food positive service positive cater 
+anecdotes/miscellaneous positive 
+food positive mango chicken presentation 
+food neutral ambience neutral food ambience 
+food negative price negative drinks 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+service positive service 
+anecdotes/miscellaneous positive 
+food positive garlic mashed potatoes 
+food neutral service neutral Food service 
+ambience positive 
+food negative lamb meat 
+food positive pad thai 
+food negative service negative food quality service 
+food positive service positive pizza service 
+service negative waiter red wine hot tea outside 
+anecdotes/miscellaneous neutral oil 
+food negative ambience positive place food 
+anecdotes/miscellaneous negative lunch 
+anecdotes/miscellaneous neutral 
+food positive 
+food negative wine list desserts 
+service negative Lassi 
+food positive coffee 
+anecdotes/miscellaneous negative 
+food positive service conflict wine list food service 
+ambience negative space tables 
+service negative 
+service conflict service waitresses 
+service negative place 
+service negative dish 
+food positive host 
+food positive Taxan 
+anecdotes/miscellaneous negative 
+food conflict price positive sandwiches price portion 
+food neutral Southern Indian cuisine 
+anecdotes/miscellaneous neutral place 
+anecdotes/miscellaneous positive 
+food negative salad 
+price positive tip 
+food positive Sushi 
+food positive food 
+food positive service negative Staffs taste 
+ambience neutral jukebox 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+service negative 
+food positive martini 
+food neutral food 
+anecdotes/miscellaneous neutral cuisine 
+service positive waiter 
+food positive Margarita 
+anecdotes/miscellaneous positive 
+food positive tastes 
+anecdotes/miscellaneous neutral 
+food positive service positive sake list Purple Haze 
+food neutral ambience negative price negative tables menu wine list 
+anecdotes/miscellaneous positive 
+food negative food 
+anecdotes/miscellaneous neutral 
+food positive price positive appetizer portions served lunch 
+ambience positive space decor dinner 
+service positive service 
+food neutral anecdotes/miscellaneous neutral Steak 
+food negative rice sushi seasoning 
+food positive sushi menu Japanese classic cuisine 
+food neutral price negative sushi prices 
+food positive spinach Shanghai low mein 
+anecdotes/miscellaneous neutral Owner 
+anecdotes/miscellaneous neutral service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food neutral dim sum orders 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive dumpling 
+food positive wine menu entree horedevous 
+food positive service positive food owner 
+service negative waiters owners 
+anecdotes/miscellaneous neutral 
+food positive food 
+anecdotes/miscellaneous positive 
+food positive ambience positive drink hong-kong styled milk tea with tapioca pearls (hot) 
+food neutral chef assortment of fish Fatty Yellow Tail Boton Shrimp Sea Eel Sea Urchin Blue Fin Torro (Fatty Tuna) 
+service positive owner 
+food positive ambience negative room plate 
+anecdotes/miscellaneous neutral ambience negative waterbugs 
+service positive crew staff serving 
+food conflict ambience positive ambiance food dishes eggplant parmesan veal in carozza chicken saltimbocca 
+service neutral host appetizers waiter 
+food positive service positive chutneys 
+food positive bar mixed drink special 
+price conflict 
+food positive service positive ambience positive food service ambience 
+service negative food negative chef staff 
+ambience positive ambience 
+ambience positive 
+anecdotes/miscellaneous neutral 
+price negative money 
+price negative prices 
+anecdotes/miscellaneous neutral drink 
+anecdotes/miscellaneous negative 
+ambience negative 
+food positive bagels 
+ambience conflict atmosphere 
+food neutral 
+ambience positive 
+ambience negative waiting area seat bar wait 
+food negative food flavor dish spice 
+food positive fried dumplings 
+food positive BBQ ribs 
+anecdotes/miscellaneous neutral waiters 
+ambience conflict decor 
+anecdotes/miscellaneous positive 
+food positive Argentinian Pizza lunch Pelligrino pizza goat cheese blue cheese 
+anecdotes/miscellaneous positive 
+food positive kamasutra bombay cosmopolitan 
+anecdotes/miscellaneous positive date spot 
+food neutral dim sum 
+anecdotes/miscellaneous neutral 
+food positive price positive food 
+food positive price positive food 
+anecdotes/miscellaneous positive 
+ambience conflict Seating 
+anecdotes/miscellaneous neutral 
+price negative cost botle of wine 
+service conflict Service people 
+food positive 
+food negative steak sauce 
+ambience negative 
+price positive 
+food positive service positive ambience positive staff food atmosphere 
+anecdotes/miscellaneous neutral 
+food conflict food steak dish 
+anecdotes/miscellaneous negative 
+food positive menu 
+anecdotes/miscellaneous negative 
+service negative staff sushi check dinner bar 
+anecdotes/miscellaneous positive food spot 
+anecdotes/miscellaneous neutral 
+food positive bagel 
+anecdotes/miscellaneous positive 
+food positive tuna 
+food conflict somosas chai chole dhosas dhal 
+anecdotes/miscellaneous positive 
+food neutral price negative prices 
+service conflict ambience negative staff bathroom 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service positive service 
+anecdotes/miscellaneous neutral 
+service positive Service 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service positive Service 
+food positive service positive ambience positive food decor service 
+service negative tables space 
+food neutral palak paneer malai kofta 
+price positive dining price 
+service negative service 
+ambience negative ambiance 
+anecdotes/miscellaneous negative food service 
+food positive service positive service dish spring rolls cod with pineapple tempura 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+price negative bottle waitress price 
+food positive sushi sauce topping 
+anecdotes/miscellaneous negative ambience neutral taste 
+service negative 
+service positive ambience negative service place 
+food positive service positive service food 
+service positive Service 
+anecdotes/miscellaneous positive meal 
+food negative portions qualities 
+service negative 
+food positive anecdotes/miscellaneous positive food 
+ambience positive atmosphere music dress cod 
+food negative 
+food positive food 
+anecdotes/miscellaneous positive ambience positive candles dinner surrounding pictures 
+food positive desserts 
+anecdotes/miscellaneous positive sake 
+ambience positive place 
+anecdotes/miscellaneous positive 
+food positive Reuben sandwich 
+food positive place 
+food positive strawberry daiquiries 
+anecdotes/miscellaneous positive dinner 
+food negative service negative ambience conflict sushi wait service atmosphere area 
+anecdotes/miscellaneous positive 
+food positive Frites 
+anecdotes/miscellaneous positive 
+price negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive zen feel 
+anecdotes/miscellaneous conflict drink bar wait time 
+food positive egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork 
+anecdotes/miscellaneous neutral table rice congee soup 
+food positive bagel 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive summer rolls 
+food positive sushi 
+anecdotes/miscellaneous negative 
+service negative service 
+food positive price negative Spreads toppings 
+anecdotes/miscellaneous positive pizza 
+service negative plates 
+ambience positive Indoor 
+service positive brunch mimosas 
+food negative service negative price negative prices prices food service 
+anecdotes/miscellaneous positive 
+food positive service positive service food 
+service positive ambience positive service 
+ambience positive drinks dinner spot 
+food neutral dishes 
+service negative ambience positive cafe outdoor chairs tables service 
+service positive staff 
+food positive Food 
+ambience negative 
+anecdotes/miscellaneous positive 
+food positive salads lettuce walnuts 
+food positive price positive lunch buffet 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative cuisine 
+food positive price positive priced dinner lunch 
+anecdotes/miscellaneous negative 
+ambience positive Ambience 
+food positive portion sizes sushi 
+anecdotes/miscellaneous neutral 
+food positive tuna 
+food positive menu pad thai tom yum soup 
+food positive price negative food 
+food positive service positive caviar service 
+price conflict food 
+food positive food 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral wait 
+anecdotes/miscellaneous positive food positive eats 
+anecdotes/miscellaneous positive 
+food positive fish 
+food positive Tuscan cuisine Neapolitan fare 
+service positive entrees summer rolls owner 
+service positive service 
+food positive lobster teriyaki rose special roll 
+anecdotes/miscellaneous positive entrees 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive ambience positive food atmosphere 
+anecdotes/miscellaneous positive 
+service positive ambience negative place 
+ambience negative 
+food positive service positive price positive food service value 
+anecdotes/miscellaneous negative food negative foods 
+food conflict anecdotes/miscellaneous conflict food 
+anecdotes/miscellaneous negative food negative glass of wine glass of beer dinner 
+food positive service negative drinks service staff 
+anecdotes/miscellaneous positive 
+service negative delivery guys 
+anecdotes/miscellaneous neutral 
+service positive staff 
+anecdotes/miscellaneous positive 
+price positive food positive prices food 
+food positive Tamarind Margaritas 
+anecdotes/miscellaneous positive 
+food positive filet mignon dish 
+anecdotes/miscellaneous positive food positive service positive food getting a table 
+anecdotes/miscellaneous positive 
+ambience positive place 
+food positive food 
+food positive food 
+food positive pastrami on challah sandwich soups knishes 
+ambience neutral atmosphere 
+ambience positive atomosphere tables 
+food positive beer 
+food positive scallops mahi mahi (on saffron risotto 
+food positive ambience positive price positive ambience prices food 
+food negative Go Go Hamburgers 
+food positive sandwhiches 
+anecdotes/miscellaneous positive Thia food 
+ambience positive Decor 
+food positive food 
+food positive price positive spring rolls noodles price 
+anecdotes/miscellaneous negative 
+food conflict dim sum food portions dishes dish 
+food conflict price negative drinks bars drinks 
+service positive stuff waiter dessert staff 
+food negative service negative food 
+price positive pre-theatre menu 
+service neutral 
+anecdotes/miscellaneous positive 
+food conflict seafood vegetables portion size 
+price positive food positive prices quality quantity freshness taste 
+anecdotes/miscellaneous positive food positive price positive stomach wallet 
+anecdotes/miscellaneous negative 
+food positive Gnochi 
+food negative service negative price negative SERVICE FOOD QUALITY PRICES 
+food positive meal 
+anecdotes/miscellaneous neutral line 
+food positive price positive dinner specials priced 
+food negative service negative food service 
+food positive wine cheese fondue table grilling 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive service positive food 
+food positive exotic salad green salad sweet basil fried tofu peanut sauce 
+food negative TOASTING 
+food positive ambience positive food garden place 
+service positive service 
+food negative service negative food waiter wine meal 
+food positive chicken steak lamb sandwhich 
+anecdotes/miscellaneous positive 
+food negative dim sum dish 
+anecdotes/miscellaneous positive food positive food 
+food positive service positive food service 
+ambience negative price positive rice entrees 
+ambience conflict Traditional French decour hall 
+food positive fish sushi chef wasabi soy sauce sea salt 
+food negative anecdotes/miscellaneous negative burgers 
+food positive cheeseburgers 
+food positive Unda (Egg) rolls 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+food positive wine choices 
+ambience positive Jazz 
+anecdotes/miscellaneous positive 
+service negative waitstaff 
+ambience positive lazy susans tables 
+service negative tuna 
+food positive steak pork loin 
+anecdotes/miscellaneous conflict table wait 
+anecdotes/miscellaneous positive 
+ambience positive service positive setting service 
+food positive burger 
+service negative anecdotes/miscellaneous conflict discount service 
+food positive price positive portions food 
+food positive pizza 
+ambience negative 
+food positive Edamame pureed 
+service negative service 
+service negative specials 
+price positive price appetizers food 
+food conflict vegetarian dishes non-veg selections 
+service positive owner 
+food positive ambience positive sushi place 
+anecdotes/miscellaneous conflict lunch wait 
+food positive food dinners 
+anecdotes/miscellaneous conflict 
+food positive service positive ambience positive price positive food service atmosphere lunch buffet dinner lunch 
+food positive appetizers shrimp fritters dumplings 
+price positive 
+food neutral service positive people food 
+ambience negative spot lights 
+food positive Times Square cocktail ginger lemonade with vodka 
+anecdotes/miscellaneous positive 
+food positive Veal Parmigana 
+food positive wine food 
+service neutral ambience negative service air conditioning meal 
+food positive service positive food staff 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral pizza 
+service positive 
+anecdotes/miscellaneous neutral 
+food negative sushi 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive ambience negative price positive food price decor 
+food positive anecdotes/miscellaneous positive sichuan cooking chongqing hotpot 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience negative table waiter traffic dinner plates 
+food positive price negative Sake collection Nanbu Bijin 
+food positive dishes chicken in curry sauce salmon caserole 
+anecdotes/miscellaneous positive 
+food positive Angry Lobster cold lobster salad 
+anecdotes/miscellaneous positive 
+service positive bartender 
+food positive service positive service crab-cake eggs benedict 
+ambience positive decor bathrooms 
+anecdotes/miscellaneous positive 
+ambience positive price positive location prices 
+anecdotes/miscellaneous positive 
+service positive 
+anecdotes/miscellaneous positive place 
+anecdotes/miscellaneous positive 
+service conflict Service 
+anecdotes/miscellaneous positive 
+service negative price negative Deliveries prices 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+ambience conflict place 
+anecdotes/miscellaneous neutral 
+food neutral anecdotes/miscellaneous neutral hot dogs menu 
+anecdotes/miscellaneous negative 
+food neutral chicken with garlic sauce chicken with black bean sauce hunan chicken 
+food negative take-out pies crust 
+anecdotes/miscellaneous neutral 
+food neutral dish beef 
+anecdotes/miscellaneous neutral 
+service negative 
+anecdotes/miscellaneous neutral bannan fritter served 
+food neutral rice water 
+ambience positive place 
+price neutral Appetizers main dishes 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral dinner 
+anecdotes/miscellaneous neutral food atmosphere 
+food conflict mascarpone with chocolate chip 
+service negative manager table 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+ambience positive 
+anecdotes/miscellaneous neutral appetizers 
+anecdotes/miscellaneous neutral pizza caprese salad appetizer 
+anecdotes/miscellaneous neutral 
+food negative meal 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral Half-Price Saturday Night Special 
+service negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative food value 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food neutral selection basic dishes 
+anecdotes/miscellaneous neutral 
+food positive price positive soup nosh (pastrami sandwich) 
+anecdotes/miscellaneous neutral lunch 
+anecdotes/miscellaneous neutral Christmas dinner 
+anecdotes/miscellaneous positive bagels 
+service negative table 
+anecdotes/miscellaneous neutral reservations 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service negative hostess busboy table 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive pizza 
+anecdotes/miscellaneous negative 
+food neutral dinosaur rolls white tuna sashimi 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service negative 
+ambience negative 
+food positive Gnocchi 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral reservation 
+anecdotes/miscellaneous neutral 
+price neutral 
+service negative beer 
+anecdotes/miscellaneous neutral bar 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+service neutral service 
+food neutral bottle of sake edamames sushi plate sashimi 
+anecdotes/miscellaneous neutral cheese sticks 
+anecdotes/miscellaneous positive 
+food positive appetizers dim sum foods food 
+anecdotes/miscellaneous neutral 
+food neutral table pot of boiling water meats vegetables rice glass noodles 
+anecdotes/miscellaneous neutral 
