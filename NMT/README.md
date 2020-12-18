@@ -20,8 +20,10 @@ Follow the instruction in each jupyter notebook. The corresponding data path is 
 
 
 ## Additional information
-Data wrangling with PySpark, tokenisation with CoreNLP from Stanford
+Data wrangling with PySpark, tokenisation with CoreNLP from Stanford.
+
 Training a Seq2Seq model with a fork of OpenNMT-py, this part is heavily inspired by Stay On-Topic: Generating Context-specific Fake Restaurant Reviews by Juuti et al.
+
 Training various classifiers with Spark ML that try to distinguish between fake and and real reviews.
 
 
