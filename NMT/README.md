@@ -10,20 +10,19 @@ In this work, we apply NMT which improves the generation process by defining a c
 
 ## Environment Requirement
 The code has been tested running under Python 3.7. The required packages are as follows:
-* ?
-* ?
-* ?
+* Pytorch==1.1.0
+* torchvision==0.2.1
+* tqdm==4.30.*
 
 
 ## How to run
-- Firstly, change the current working directory to NMT/
-```
-cd NMT/
-```
-- Example command
-```
-python Item-CF_user_entropies.py --train_path underexpose_train/ --test_path underexpose_test/
-```
+Follow the instruction in each jupyter notebook. The corresponding data path is in upper level of this file, remenber to use the correct address.
+
+
+## Additional information
+Data wrangling with PySpark, tokenisation with CoreNLP from Stanford
+Training a Seq2Seq model with a fork of OpenNMT-py, this part is heavily inspired by Stay On-Topic: Generating Context-specific Fake Restaurant Reviews by Juuti et al.
+Training various classifiers with Spark ML that try to distinguish between fake and and real reviews.
 
 
 ================================
