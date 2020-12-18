@@ -24,4 +24,4 @@ test_term_detail.txt
 ```
 
 # Checkpoints
-* Our dataset and checkpoints can also downloaded from Google Drive: [Google Drive Link](https://drive.google.com/drive/folders/1v0FCKIuQyydTS1NIJvYcpluVd9WiaKNh)
+* Our dataset and checkpoints can be downloaded from Google Drive: [Google Drive Link](https://drive.google.com/drive/folders/1v0FCKIuQyydTS1NIJvYcpluVd9WiaKNh).
