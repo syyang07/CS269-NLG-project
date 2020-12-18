@@ -1,0 +1,800 @@
+food positive 
+service positive 
+food positive 
+food positive 
+food conflict ambience positive 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive 
+food positive 
+food negative 
+food positive service negative 
+food positive ambience positive 
+service negative 
+food negative 
+food negative 
+food positive price positive 
+food positive service negative 
+food neutral 
+service negative 
+service positive anecdotes/miscellaneous positive 
+food positive anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive service positive 
+food positive ambience positive 
+food positive 
+anecdotes/miscellaneous positive 
+ambience positive service positive food positive 
+anecdotes/miscellaneous positive 
+food positive ambience positive 
+food negative 
+food negative 
+service negative 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive 
+service positive 
+anecdotes/miscellaneous positive 
+food positive 
+service positive food positive 
+food neutral 
+food positive 
+food negative price negative 
+food positive 
+food positive price positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive service positive ambience positive 
+anecdotes/miscellaneous positive 
+food positive service positive ambience positive 
+food positive price positive ambience positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive price positive 
+food positive 
+food negative 
+food positive price positive 
+food positive 
+food positive 
+price negative 
+food negative 
+food positive service positive price positive 
+service negative food negative 
+service negative 
+food positive 
+ambience negative 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive service positive 
+food positive 
+anecdotes/miscellaneous positive 
+ambience negative food positive 
+food negative 
+food negative 
+food positive 
+food positive 
+ambience conflict food positive 
+food neutral 
+ambience positive 
+food negative 
+anecdotes/miscellaneous neutral 
+service negative 
+ambience positive 
+food positive 
+food positive service positive 
+food positive 
+anecdotes/miscellaneous positive 
+ambience positive 
+food positive 
+service positive 
+food negative 
+food negative 
+food negative 
+food positive 
+ambience positive 
+food positive price positive 
+food positive 
+service conflict 
+price positive 
+food positive ambience positive 
+food negative price negative 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food negative 
+food positive ambience positive 
+anecdotes/miscellaneous positive 
+service negative 
+ambience positive 
+price negative food positive 
+anecdotes/miscellaneous negative 
+food positive price positive 
+food positive 
+price positive 
+service positive 
+service conflict 
+ambience negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+service positive 
+food positive 
+food positive 
+food negative 
+food positive 
+food positive service positive 
+food positive 
+service positive 
+anecdotes/miscellaneous positive 
+food conflict 
+food positive 
+food positive service positive 
+food neutral 
+food negative 
+service negative 
+food negative service negative 
+food negative 
+service positive food positive 
+food positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive 
+food positive 
+food negative 
+ambience neutral 
+food positive 
+food positive 
+price negative 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive 
+service positive 
+ambience conflict 
+service positive 
+service positive food positive 
+food positive 
+food positive 
+food positive 
+service positive ambience neutral 
+food conflict 
+service positive price positive 
+ambience positive 
+anecdotes/miscellaneous neutral 
+food positive 
+anecdotes/miscellaneous neutral 
+service positive food positive 
+food negative 
+service negative 
+food neutral 
+service positive 
+food negative 
+service positive food positive 
+food positive 
+food positive 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous positive 
+ambience negative 
+service positive 
+service positive 
+ambience negative 
+food positive 
+food positive 
+food positive 
+food positive 
+food positive ambience positive 
+price negative food negative 
+food negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+ambience positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+service positive ambience positive 
+food positive 
+food positive ambience positive service positive 
+food positive 
+service negative 
+anecdotes/miscellaneous positive 
+price conflict 
+food positive 
+food positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive 
+anecdotes/miscellaneous positive 
+service positive 
+service negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive 
+ambience negative 
+service positive ambience positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive 
+food negative 
+anecdotes/miscellaneous positive 
+price negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive 
+anecdotes/miscellaneous positive 
+service negative 
+service positive ambience positive 
+food negative 
+service negative food negative 
+price neutral service neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+price positive 
+food positive 
+food positive price positive 
+ambience positive food positive 
+anecdotes/miscellaneous neutral 
+food neutral 
+anecdotes/miscellaneous neutral 
+food positive 
+anecdotes/miscellaneous positive 
+food negative 
+food negative 
+food positive 
+anecdotes/miscellaneous positive 
+price negative food negative 
+anecdotes/miscellaneous negative 
+service negative 
+service negative 
+food positive 
+service positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food neutral 
+ambience negative price negative food negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive 
+service positive 
+service negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+food positive 
+service negative 
+anecdotes/miscellaneous positive 
+price negative anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+service positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+food positive 
+service positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive 
+service positive 
+anecdotes/miscellaneous neutral 
+food positive ambience positive service positive 
+anecdotes/miscellaneous positive 
+food positive service positive 
+food neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous conflict 
+food positive 
+service positive 
+ambience positive service positive 
+food positive ambience positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive 
+service positive 
+food positive 
+food positive 
+price positive 
+anecdotes/miscellaneous negative 
+food positive 
+food positive 
+food positive 
+food positive price positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive 
+anecdotes/miscellaneous positive 
+service positive food positive 
+service positive food positive 
+food positive 
+service positive 
+food positive 
+service positive price positive food positive 
+price negative 
+anecdotes/miscellaneous positive 
+price conflict 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+price positive anecdotes/miscellaneous conflict 
+food positive service negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+ambience conflict 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+ambience positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+food positive 
+anecdotes/miscellaneous positive 
+service positive 
+food negative 
+food positive 
+anecdotes/miscellaneous positive 
+food negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service positive anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food negative price negative 
+food negative 
+price positive 
+service positive price positive 
+food positive price positive 
+food positive 
+food positive price positive 
+anecdotes/miscellaneous conflict 
+food positive 
+anecdotes/miscellaneous positive 
+service positive 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+price positive food positive 
+food positive 
+food positive 
+anecdotes/miscellaneous positive 
+service positive 
+service positive food positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+service positive 
+service negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+service positive food positive 
+food positive 
+food positive 
+food neutral 
+food positive 
+food positive 
+ambience positive 
+anecdotes/miscellaneous negative 
+service positive 
+food neutral 
+food negative 
+food negative 
+service negative price negative 
+anecdotes/miscellaneous negative 
+service positive 
+anecdotes/miscellaneous positive 
+food positive 
+ambience positive 
+food positive price negative 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+anecdotes/miscellaneous neutral 
+service negative 
+anecdotes/miscellaneous positive 
+food positive price positive service positive 
+food positive 
+food negative 
+anecdotes/miscellaneous positive 
+price positive 
+service negative 
+food positive price negative 
+food positive 
+food positive 
+food positive price positive 
+food positive service positive ambience positive 
+food positive 
+food positive 
+food positive price positive ambience positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food positive 
+service negative 
+service negative 
+service negative food negative anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous negative 
+ambience conflict anecdotes/miscellaneous negative 
+service negative 
+food positive anecdotes/miscellaneous positive 
+service negative food negative price negative anecdotes/miscellaneous negative 
+food positive price positive service positive 
+anecdotes/miscellaneous neutral 
+food positive 
+food positive service positive 
+food positive anecdotes/miscellaneous positive 
+food positive 
+anecdotes/miscellaneous positive 
+service neutral 
+food negative 
+food positive 
+food negative 
+food positive 
+service negative anecdotes/miscellaneous negative 
+food negative 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food neutral 
+food positive service positive 
+price conflict anecdotes/miscellaneous positive 
+food positive 
+food positive ambience positive 
+anecdotes/miscellaneous neutral 
+ambience neutral 
+anecdotes/miscellaneous positive 
+food positive price positive 
+anecdotes/miscellaneous positive 
+food positive service positive 
+ambience positive food positive 
+food neutral 
+food negative 
+service positive 
+ambience positive anecdotes/miscellaneous negative 
+food conflict 
+food positive 
+food positive service positive 
+food positive 
+price negative service negative anecdotes/miscellaneous negative 
+service negative anecdotes/miscellaneous negative 
+food positive price positive 
+food positive 
+anecdotes/miscellaneous positive ambience positive 
+service positive food positive price positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+food positive anecdotes/miscellaneous conflict 
+food neutral 
+food positive 
+anecdotes/miscellaneous negative 
+food positive 
+anecdotes/miscellaneous positive 
+food positive 
+ambience negative anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous conflict service negative 
+anecdotes/miscellaneous conflict 
+food negative 
+food positive 
+anecdotes/miscellaneous neutral 
+ambience conflict food positive 
+food positive 
+ambience positive 
+ambience positive food positive service positive 
+food positive 
+anecdotes/miscellaneous neutral 
+food negative 
+anecdotes/miscellaneous conflict 
+food negative price negative ambience negative 
+food conflict 
+food positive 
+price negative food negative 
+service negative anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+service positive 
+ambience positive 
+anecdotes/miscellaneous positive 
+ambience positive 
+service positive price positive 
+service positive food positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous positive 
+food positive ambience positive 
+service negative 
+food positive 
+service negative 
+service negative 
+food positive 
+food positive 
+food positive 
+service negative 
+food neutral 
+ambience conflict 
+food positive 
+food positive 
+food conflict 
+ambience negative 
+food positive anecdotes/miscellaneous positive 
+anecdotes/miscellaneous conflict 
+service negative anecdotes/miscellaneous positive 
+price positive service positive ambience positive 
+service negative 
+ambience positive anecdotes/miscellaneous positive 
+ambience negative food positive price positive 
+food neutral anecdotes/miscellaneous positive 
+ambience conflict service positive 
+price positive ambience positive 
+service positive food positive 
+service negative food neutral 
+food conflict 
+service positive ambience positive 
+food positive price positive 
+anecdotes/miscellaneous negative 
+price positive food positive 
+ambience neutral 
+service negative 
+food negative ambience negative service negative 
+service positive food positive price positive 
+food neutral 
+service neutral food negative 
+ambience positive food positive 
+food positive price positive 
+price negative food negative 
+food positive 
+food positive 
+food positive price positive 
+ambience negative food negative 
+price negative food negative 
+anecdotes/miscellaneous conflict 
+service positive price positive anecdotes/miscellaneous positive 
+food positive 
+service negative 
+anecdotes/miscellaneous positive 
+food positive service positive 
+ambience positive food positive 
+food positive 
+food positive 
+service negative 
+ambience positive 
+food positive 
+food positive ambience positive 
+food positive price positive 
+food positive service positive price positive 
+food positive 
+food positive 
+food positive service positive 
+food positive 
+food negative 
+food neutral service negative 
+price negative food negative 
+service negative 
+price positive 
+price negative 
+food conflict 
+food positive 
+food positive 
+food positive 
+ambience conflict 
+ambience neutral food positive 
+ambience negative 
+anecdotes/miscellaneous positive 
+ambience positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+service negative 
+ambience positive 
+ambience negative 
+anecdotes/miscellaneous neutral 
+food positive 
+ambience negative 
+service positive 
+food neutral 
+food positive 
+food positive 
+ambience positive service positive 
+food positive price positive 
+service negative 
+anecdotes/miscellaneous positive 
+food conflict 
+food positive 
+ambience negative 
+ambience positive 
+service positive 
+food positive anecdotes/miscellaneous positive 
+food positive ambience positive 
+food positive 
+food positive service positive 
+service positive ambience positive 
+food negative 
+anecdotes/miscellaneous positive 
+food positive service positive price positive 
+food positive ambience positive service positive 
+food positive service positive 
+anecdotes/miscellaneous neutral 
+food positive 
+food positive 
+food positive 
+food positive 
+ambience conflict 
+food positive 
+food positive service positive 
+food positive service positive 
+food positive 
+food positive price positive ambience positive 
+service conflict 
+food positive 
+service positive food positive 
+ambience positive 
+food positive service positive 
+food positive 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous negative 
+anecdotes/miscellaneous neutral 
+ambience positive 
+service positive 
+food positive 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous neutral 
+food negative service negative 
+anecdotes/miscellaneous negative 
+food positive service positive 
+anecdotes/miscellaneous positive 
+food positive 
+ambience positive 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive 
+food positive 
+food positive 
+food positive price positive 
+food positive price positive 
+food neutral 
+service positive 
+price negative food negative anecdotes/miscellaneous negative 
+ambience positive service positive food positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive 
+food positive 
+food positive 
+price negative 
+ambience positive 
+food positive 
+food positive 
+food conflict 
+service negative 
+food negative 
+anecdotes/miscellaneous negative 
+food negative 
+food neutral 
+food positive 
+food neutral 
+food conflict service negative 
+food neutral 
+food positive 
+ambience conflict 
+anecdotes/miscellaneous positive 
+food negative 
+food negative 
+service negative food positive ambience negative 
+food positive 
+food neutral 
+ambience conflict anecdotes/miscellaneous positive 
+ambience negative 
+ambience positive anecdotes/miscellaneous positive 
+ambience positive food positive service positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+food positive 
+ambience positive 
+ambience neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+food positive 
+food positive price positive 
+food positive anecdotes/miscellaneous conflict 
+food positive 
+food positive 
+food positive 
+food positive 
+food positive anecdotes/miscellaneous positive 
+food positive anecdotes/miscellaneous positive 
+ambience positive anecdotes/miscellaneous positive 
+ambience positive 
+food conflict price positive 
+service negative 
+ambience neutral 
+ambience negative 
+food positive ambience positive anecdotes/miscellaneous neutral 
+food neutral anecdotes/miscellaneous positive 
+ambience positive 
+ambience positive 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+ambience positive 
+food conflict 
+anecdotes/miscellaneous neutral 
+service negative anecdotes/miscellaneous conflict 
+food positive 
+food negative service negative 
+ambience negative 
+price positive 
+ambience positive 
+anecdotes/miscellaneous neutral 
+service positive 
+food positive 
+food positive 
+service positive food positive 
+ambience neutral 
+ambience positive 
+ambience positive 
+anecdotes/miscellaneous positive 
+food negative anecdotes/miscellaneous conflict 
+anecdotes/miscellaneous negative 
+food negative 
+service positive 
+food neutral 
+anecdotes/miscellaneous neutral 
+anecdotes/miscellaneous neutral 
+ambience positive 
+service negative 
+service conflict food positive 
+anecdotes/miscellaneous negative 
+food positive 
+food conflict 
+food conflict 
+food conflict 
+food positive service conflict price negative anecdotes/miscellaneous conflict 
+food positive anecdotes/miscellaneous neutral 
+food positive 
+food neutral 
+food neutral price negative 
+food neutral service negative 
+food neutral price negative 
+food positive anecdotes/miscellaneous positive 
+anecdotes/miscellaneous positive 
+service negative anecdotes/miscellaneous negative 
+food neutral 
+ambience conflict 
+ambience conflict 
+service positive 
+anecdotes/miscellaneous positive 
+service negative 
+service negative 
+service positive 
+food negative service negative 
+ambience positive food negative 
+food positive 
