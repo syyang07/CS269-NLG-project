@@ -27,5 +27,4 @@ Training a Seq2Seq model with a fork of OpenNMT-py, this part is heavily inspire
 Training various classifiers with Spark ML that try to distinguish between fake and and real reviews.
 
 
-================================
 
