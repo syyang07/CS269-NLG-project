@@ -1,5 +1,5 @@
 # UCLA 2020Fall cs269 project review generation
-Authors: Shuwen Qiu, Shiyu Yang, Ying Sun
+Authors: Shuwen Qiu, Shiyu Yang, Ying Sun.
 
 # Project Structure
 Different models are in corresponding directories. Please refer to model-based README to see instructions on dependencies and how to run.
@@ -22,3 +22,6 @@ test_context.txt
 test_reviews.txt
 test_term_detail.txt
 ```
+
+# Checkpoints
+* Our dataset and checkpoints can also downloaded from Google Drive: [Google Drive Link](https://drive.google.com/drive/folders/1v0FCKIuQyydTS1NIJvYcpluVd9WiaKNh)
