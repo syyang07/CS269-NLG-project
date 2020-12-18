@@ -282,10 +282,10 @@ def save(args):
 
 def parase_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--context', type=str, default='cate_only')
-    parser.add_argument('--data_path', type=str, default='../data/restaurant/')
+    parser.add_argument('--context', type=str, default='cate_only', help='different context input: cate_only(category only), context(category + aspect), term_detail(category + aspect + polarity)')
+    parser.add_argument('--data_path', type=str, default='../data/restaurant/', help='data path')
     parser.add_argument('--exp_type', type=str, default='generate', help='can be train/bleu/generate')
-    parser.add_argument('--model_path', type=str, default='../cptk/bert/cptk_term/checkpoint-1600/', help='The model status files\'s root')
+    parser.add_argument('--model_path', type=str, default='../cptk/bert/cptk_term/checkpoint-1600/', help='The model status files\' root')
     return parser.parse_args()
 
 if __name__ == "__main__":
