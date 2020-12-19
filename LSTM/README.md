@@ -2,7 +2,7 @@
 This is the implementation of LSTM model.
 
 #### Reference
-> Badrul Sarwar, George Karypis, Joseph Konstan, and John Riedl. 2001. Item-based collaborative filtering recommendation algorithms. In Proceedings of the 10th international conference on World Wide Web (WWW ’01). Association for Computing Machinery, New York, NY, USA, 285–295. [DOI]: https://doi.org/10.1145/371920.372071
+> Hochreiter, S. and J. Schmidhuber. “Long Short-Term Memory.” Neural Computation 9 (1997): 1735-1780. [Link]: http://www.bioinf.jku.at/publications/older/2604.pdf
 
 
 ## Introduction
