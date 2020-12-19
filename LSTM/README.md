@@ -2,7 +2,7 @@
 This is the implementation of LSTM model.
 
 #### Reference
-> Hochreiter, S. and J. Schmidhuber. “Long Short-Term Memory.” Neural Computation 9 (1997): 1735-1780. [Link]: http://www.bioinf.jku.at/publications/older/2604.pdf
+> Hochreiter, S. and J. Schmidhuber. “Long Short-Term Memory.” Neural Computation 9 (1997): 1735-1780. [Link](http://www.bioinf.jku.at/publications/older/2604.pdf)
 
 
 ## Introduction
