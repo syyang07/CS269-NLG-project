@@ -27,7 +27,7 @@ python train.py -h
 ```
 - Example command
 ```
-
+python train.py --context cate_only --exp_type generate
 ```
 
 
